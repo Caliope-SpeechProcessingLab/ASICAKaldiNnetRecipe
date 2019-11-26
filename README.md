@@ -39,9 +39,9 @@ Auxiliary python and shell scripts called by "run_experiment":
 - local/resetDirectory.sh ---> Reset current kaldi data directory.
 - local/makeFeats.sh ---> Execute a mfcc/cvmn feature extraction of a certain group of speaker/s and a another set of testing speakers.
 - local/makeLanguageMode.sh ---> Execute a kaldi recipe for a language Model preparation and creation.
-    local/train.sh ---> Execute the training stage for a set of training speakers. This stage is composed of: 
-    -- Monophone/triphone GMM.
-    -- Neural network (5 layers, p-norm/tahn activation functions, 5 hidden layers).
+- local/train.sh ---> Execute the training stage for a set of training speakers. This stage is composed of: 
+    * Monophone/triphone GMM.
+    * Neural network (5 layers, p-norm/tahn activation functions, 5 hidden layers).
     local/test.sh ---> Execute the testing (kaldi decoding) stage of a set of testing speakers (patients) by means of a pre-trained neural network Model.
     
 Useful python scripts:
