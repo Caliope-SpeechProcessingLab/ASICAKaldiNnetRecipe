@@ -150,12 +150,12 @@ And you didn´t create the parameter and language model files from prior stages 
 
 In order to avoid this, you need to understand the file dependency among each stage:
 
-	- **resetData stage**: No file dependency
-	- **configData stage**: it relies on the existence of info_user/filename.kal files.
-	- **makeFeats stage**: it relies on the existence of .wav files (audio), and the setting of the kaldi data folder made by configData.
-	- **makeLanguageModel stage**: it relies on the setting of the kaldi data folder made by configData.
-	- **makeTraining stage**: it relies on the existence of .ark files which are parameter binary files created by the makeFeats stage. In addition, it depends on the existence of .fst files created by the makeLanguageModel stage.
-	- **makeTesting stage**: it relies on the existence of trained model files created in makeTraining stage.
+- **resetData stage**: No file dependency
+- **configData stage**: it relies on the existence of info_user/filename.kal files.
+- **makeFeats stage**: it relies on the existence of .wav files (audio), and the setting of the kaldi data folder made by configData.
+- **makeLanguageModel stage**: it relies on the setting of the kaldi data folder made by configData.
+- **makeTraining stage**: it relies on the existence of .ark files which are parameter binary files created by the makeFeats stage. In addition, it depends on the existence of .fst files created by the makeLanguageModel stage.
+- **makeTesting stage**: it relies on the existence of trained model files created in makeTraining stage.
 
 Therefore, this is the sequential stage dependency:
 
