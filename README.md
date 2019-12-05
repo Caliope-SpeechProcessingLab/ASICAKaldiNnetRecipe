@@ -139,7 +139,7 @@ If the user types:
 
 It executes only the language model creation, nnet model training and testing stages.
 
-**Important Note
+**Important Note**
 
 However, if you execute the training stage:
 
