@@ -20,11 +20,10 @@ In order to use ASICAKaldiNNETRecipe:
 
 Now you can clone to the egs folder in Kaldi. You can use this command in your terminal:
 
-git clone https://github.com/Caliope-SpeechProcessingLab/ASICAKaldiRecipe.git
+git clone https://github.com/Caliope-SpeechProcessingLab/ASICAKaldiNnetRecipe
+.git
 
-At this point you should be able to test if the instalation is ok with:
 
-python3 run_demo.py (****CUIDADO, ESTO NO ESTÁ HECHO!!!!****)
   
 
 ##### 3. Files developed by our group (remember that many other are part of Kaldi)
@@ -104,7 +103,7 @@ In order to facilitate creating these .kal files, you can use Praat textGrids. I
   - 2º: Place the training .kal files in info_user/control
   - 3º  Place the testing .kal files in info_user/test 
   - 4º: In the terminal, run "check_format.py". If there are errors, please edit the .kal files
-  - 5º: Type the following command in CLI (main script): "run.py --configData --resetData --makeFeats --makeLanguageModel --makeTraining --makeTesting".  
+  - 5º: Type the following command in CLI (main script): "python run.py --configData --resetData --makeFeats --makeLanguageModel --makeTraining --makeTesting".  
   - 6º: Type the following command in CLI: "result_format.py"
 
   Now you should find the predicted transcriptions (results) in the folder "results".
@@ -118,5 +117,58 @@ In step 5, each argument of the python command corresponds to a "flag". This mea
 	- "--makeTraining": training stage is carried out (execute train.sh).
 	- "--makeTesting": testing stage is carryied out (execute test.sh).
 The order of the flags in the command is not relevance.
+
+Examples:
+
+Typing the command: 
+
+	python run.py --configData --resetData 
+
+It executes only two functionalities of the script: the reset and setting of the kaldi data folder.
+
+If the user types: 
+
+	python run.py --makeFeats
+
+It executes only the parameter extraction stage (mfcc/cvmn).
+
+If the user types:
+
+	python run.py --makeLanguageModel --makeTraining --makeTesting
+
+
+It executes only the language model creation, nnet model training and testing stages.
+
+**Important Note
+
+However, if you execute the training stage:
+
+
+	python run.py --makeTraining
+
+And you didn´t create the parameter and language model files from prior stages it will prompt errors on the Terminal.
+
+In order to avoid this, you need to understand the file dependency among each stage:
+
+	resetData stage: No file dependency
+	configData stage: it relies on the existence of info_user/filename.kal files.
+	makeFeats stage: it relies on the existence of .wav files (audio), and the setting of the kaldi data folder made by configData.
+	makeLanguageModel stage: it relies on the setting of the kaldi data folder made by configData.
+	makeTraining stage: it relies on the existence of .ark files which are parameter binary files created by the makeFeats stage. In addition, it depends on the existence of .fst files created by the makeLanguageModel stage.
+	makeTesting stage: it relies on the existence of trained model files created in makeTraining stage.
+
+Therefore, this is the sequential stage dependency:
+
+configData --> makeFeats         --> makeTraining --> makeTesting
+	       makeLanguageModel
+	
+
+
+
+
+
+
+	
+
 
 
