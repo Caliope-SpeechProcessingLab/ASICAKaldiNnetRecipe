@@ -33,16 +33,16 @@ The main python script is:
 
      run.py
 
-Auxiliary python and shell scripts called by "run_experiment":
+Auxiliary python and shell scripts called by "run":
 
 - config.py ---> Extract .kal information to set all kaldi folders.
 - local/resetDirectory.sh ---> Reset current kaldi data directory.
 - local/makeFeats.sh ---> Execute a mfcc/cvmn feature extraction of a certain group of speaker/s and a another set of testing speakers.
-- local/makeLanguageMode.sh ---> Execute a kaldi recipe for a language Model preparation and creation.
+- local/makeLanguageModel.sh ---> Execute a kaldi recipe to prepare and create a language Model.
 - local/train.sh ---> Execute the training stage for a set of training speakers. This stage is composed of: 
     * Monophone/triphone GMM.
     * Neural network (5 layers, p-norm/tahn activation functions, 5 hidden layers).
-    local/test.sh ---> Execute the testing (kaldi decoding) stage of a set of testing speakers (patients) by means of a pre-trained neural network Model.
+    local/test.sh ---> Execute the testing (kaldi decoding) stage for a set of testing speakers (patients) using a neural network pre-trained Model.
     
 Useful python scripts:
 
@@ -104,10 +104,10 @@ In order to facilitate creating these .kal files, you can use Praat textGrids. I
   - 2º: Place the training .kal files in info_user/control
   - 3º  Place the testing .kal files in info_user/test 
   - 4º: In the terminal, run "check_format.py". If there are errors, please edit the .kal files
-  - 5º: Run the main script "run.py --configData --resetData --makeFeats --makeLanguageModel --makeTraining --makeTesting".
-  - 6º: Run the script "result_format.py"
+  - 5º: Type the following command in CLI (main script): "run.py --configData --resetData --makeFeats --makeLanguageModel --makeTraining --makeTesting".  
+  - 6º: Type the following command in CLI: "result_format.py"
 
-  Now you should find the result in the folder "results".
+  Now you should find the predicted transcriptions (results) in the folder "results".
 
 In step 5, each argument of the python command corresponds to a "flag". This means that the absence or existence of these flags means the execution of a certain stage of this kaldi recipe.
 
