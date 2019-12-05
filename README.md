@@ -141,6 +141,8 @@ It executes only the language model creation, nnet model training and testing st
 
 
 
+
+
 **Important Note:**
 
 However, if you execute the training stage:
@@ -148,7 +150,7 @@ However, if you execute the training stage:
 
 	python run.py --makeTraining
 
-And you didn´t create the parameter and language model files from prior stages it will prompt errors on the Terminal.
+And you didn´t create the parameter and language model files from prior stages it will prompt **errors** on the Terminal.
 
 In order to avoid this, you need to understand the file dependency among each stage:
 
