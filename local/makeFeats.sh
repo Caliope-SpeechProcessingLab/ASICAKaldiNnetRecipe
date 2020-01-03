@@ -3,7 +3,6 @@
 #------------------------------------------------------------------SETTING GLOBAL PATHS---------------------------------------------------------------------------------------------------
 
 ./path.sh
-./numberJobsCalculation.sh
 
 #------------------------------------------------------------------- EXTRACT FEATURES ---------------------------------------------------------------------------------------------
 train_cmd="utils/run.pl" 
@@ -12,7 +11,10 @@ decode_cmd="utils/run.pl"
 nj=4
 # DATA PREPARATION.
 mfccdir=mfcc
-mkdir $mfccdir
+if [ ! -d $mfccdir ] 
+then
+    mkdir $mfccdir
+fi
 for x in train test; do
 	#CHECK and FIX the structure of data files PRIOR feature extraction
 	utils/data/fix_data_dir.sh data/$x

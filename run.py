@@ -79,24 +79,30 @@ if len(audioTestFilenames) == 0 or len(audioTrainFilenames) == 0 or len(dataTest
 # Configure train and test data:
 
 if args.configData:
+	print("CONFIG DATA")
 	config.main(dataTestFilenames, dataTrainFilenames)
 elif args.resetData:
+	print("RESET DATA")
 	bashCommand = "bash local/resetDirectory.sh"
 	process = subprocess.Popen(bashCommand,shell=True)
 	output, error = process.communicate()
 elif args.makeFeats:
+	print("MAKE FEATS")
 	bashCommand = "bash local/makeFeats.sh"
 	process = subprocess.Popen(bashCommand,shell=True)
 	output, error = process.communicate()
 elif args.makeLanguageModel:
+	print("MAKE LANGUAGE MODEL")
 	bashCommand = "bash local/makeLanguageModel.sh"
 	process = subprocess.Popen(bashCommand,shell=True)
 	output, error = process.communicate()
 elif args.makeTraining:
+	print("TRAIN")
 	bashCommand = "bash local/train.sh"
 	process = subprocess.Popen(bashCommand,shell=True)
 	output, error = process.communicate()
 elif args.makeTesting:
+	print("TEST")
 	bashCommand = "bash local/test.sh"
 	process = subprocess.Popen(bashCommand,shell=True)
 	output, error = process.communicate()

@@ -32,7 +32,6 @@ spk*
 text
 utt*
 *.scp
-*.conf
 frame*
 *.log
 best_wer

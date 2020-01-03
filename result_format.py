@@ -3,6 +3,7 @@
 import os
 import pandas as pd
 import csv
+import argparse
 
 
 def remove_SpaceItems(items):
@@ -118,8 +119,14 @@ def extract_results(crossVal_mode, speaker):
 
 if __name__ == "__main__":
 
+	parser = argparse.ArgumentParser()
+	arg.add_argument("-n", "--filename", required=True,help="name of the result file")
+	args = parser.parse_args()
+
+
+	filename = args.filename
 	pathTo_perSpk = 'exp/nnet2/nnet2_simple/decode/scoring_kaldi/wer_details/per_spk'
-	simpleFormat(pathTo_perSpk,'results/nnet2pnormOptmize_result.txt')
+	simpleFormat(pathTo_perSpk,'results/' + filename)
 	#pathTo_perSpk = 'exp/tri1/decode/scoring_kaldi/wer_details/per_spk'
 	#simpleFormat(pathTo_perSpk,'results/gmmTri_result.txt')
 	#speaker == []
