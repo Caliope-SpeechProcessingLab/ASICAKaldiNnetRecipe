@@ -120,6 +120,10 @@ The order of the flags in the command is not relevance.
 
 Examples:
 
+For a complete execution:
+
+	python run.py --configData --resetData --makeFeats --makeLanguageModel --makeTraining --makeTesting
+
 Typing the command: 
 
 	python run.py --configData --resetData 
