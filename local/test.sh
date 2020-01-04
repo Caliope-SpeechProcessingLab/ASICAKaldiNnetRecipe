@@ -37,26 +37,18 @@ fi
 
 #-------------------------------------------------------NNET2 DECODING--------------------------------------------------------------------------------------------------------
 
-if [ $stage -le -6 ]; then
+# 2 decoding methods:
+#Usage: $0 [options] <graph-dir> <data-dir> <am-model-file> <unknown_phone> <silence_phone> <decode-dir>
+#steps/nnet2/decode_simple.sh --num-threads "$num_threads" --beam 8 --max-active 500 --lattice-beam 3 exp/tri1/graph data/test $dir/final.mdl $unknown_phone $silence_phone $experiment_dir/decode \
+#|| exit 1;
 
-    # 2 decoding methods:
-    #Usage: $0 [options] <graph-dir> <data-dir> <am-model-file> <unknown_phone> <silence_phone> <decode-dir>
-    #steps/nnet2/decode_simple.sh --num-threads "$num_threads" --beam 8 --max-active 500 --lattice-beam 3 exp/tri1/graph data/test $dir/final.mdl $unknown_phone $silence_phone $experiment_dir/decode \
-            #|| exit 1;
-
-    #Usage: $0 [options] <graph-dir> <data-dir> <decode-dir>
-    steps/nnet2/decode.sh --cmd "$decode_cmd" --nj $njTest exp/tri1/graph data/test $dir/decode
-fi
+#Usage: $0 [options] <graph-dir> <data-dir> <decode-dir>
+steps/nnet2/decode.sh --cmd "$decode_cmd" --nj $njTest exp/tri1/graph data/test $dir/decode
 
 
-if [ $stage -le -7 ]; then
-
-    printf "\n#### BEGIN SCORING ####\n"
+printf "\n#### BEGIN SCORING ####\n"
     
-    local/score.sh --cmd "$decode_cmd" data/test exp/tri1/graph $dir/decode || exit 1;
+local/score.sh --cmd "$decode_cmd" data/test exp/tri1/graph $dir/decode || exit 1;
 
-    printf "\n#### END SCORING ####\n"
+printf "\n#### END SCORING ####\n"
 
-fi
-
-exit 0;
