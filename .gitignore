@@ -1,7 +1,16 @@
 
 htk_Core*/
 
-
+foo
+samples_per_iter
+*.mat
+valid_uttlist
+train_subset_uttlist
+*.spmat
+*.acc
+*.vec
+*.egs
+*.tpmat
 *.zip
 *.tar
 *.rar

@@ -43,6 +43,7 @@ fi
 #|| exit 1;
 
 #Usage: $0 [options] <graph-dir> <data-dir> <decode-dir>
+dir=exp/nnet2/nnet2_simple
 steps/nnet2/decode.sh --cmd "$decode_cmd" --nj $njTest exp/tri1/graph data/test $dir/decode
 
 
