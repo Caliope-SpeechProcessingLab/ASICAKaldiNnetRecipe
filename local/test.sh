@@ -3,6 +3,7 @@
 train_cmd="utils/run.pl" 
 decode_cmd="utils/run.pl"
 
+kalFileDirectory=$1
 
 #------------------------------------------------- Calculate jobs number -----------------------------------------------------------------------------------------------------------------------
 
@@ -17,7 +18,7 @@ else    # ...
 	nj=1
 fi
 
-NtestKal=$(ls info_user/test/*.kal | wc -l)
+NtestKal=$(ls $kalFileDirectory*.kal | wc -l)
 # If ntest_kal is not greater or equal than number of processors, then nj is ntest_kal
 if [ ! $NtestKal -ge $nj ]
 then
@@ -43,6 +44,7 @@ fi
 #|| exit 1;
 
 #Usage: $0 [options] <graph-dir> <data-dir> <decode-dir>
+
 dir=exp/nnet2/nnet2_simple
 steps/nnet2/decode.sh --cmd "$decode_cmd" --nj $njTest exp/tri1/graph data/test $dir/decode
 
