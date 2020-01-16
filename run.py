@@ -23,8 +23,8 @@ args = parser.parse_args()
 
 
 # .wav and .kal file paths:
-audioTestPath = 'audio/Experiment1/testInicial/'
-testInfo_path = 'info_user/testInicial/'
+audioTestPath = 'audio/Experiment1/test/'
+testInfo_path = 'info_user/test/'
 
 audioTrainPath = 'audio/Experiment1/train/'
 trainInfo_path = 'info_user/train/'
