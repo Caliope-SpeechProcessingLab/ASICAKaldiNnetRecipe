@@ -16,7 +16,7 @@ else    # ...
   echo Asumo Número de procesos paralelos = 1
   nj=1
 fi
-NtrainKal=$(ls kalFileDirectory*.kal | wc -l)
+NtrainKal=$(ls $kalFileDirectory*.kal | wc -l)
 # If ntest_kal is not greater or equal than number of processors, then nj is ntest_kal
 if [ ! $NtrainKal -ge $nj ]
 then
