@@ -66,4 +66,6 @@ steps/align_si.sh --nj $njTrain --cmd "$train_cmd" data/train data/lang exp/tri1
 dir=exp/nnet2/nnet2_simple
 #Methods to try:
 #steps/nnet2/nnet2_pnorm_simple.sh $dir
-steps/nnet2/nnet2_tanh_simple.sh $dir
+bash steps/nnet2/nnet2_tanh_simple.sh $dir
+
+# bash steps/nnet2/nnet2_tanh_simple.sh exp/nnet2/nnet2_simple
