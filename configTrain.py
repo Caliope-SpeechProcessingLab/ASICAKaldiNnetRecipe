@@ -12,7 +12,7 @@ def check_kal_names(filenames):
 	for filename in filenames:
 		if not re.match(r"[a-zA-Z0-9]+_[a-zA-Z0-9]+", filename):
 			raise ValueError('FILENAME FORMAT ERROR IN: ' + filename + ' It MUST consists on \"CHARACTERS_CHARACTERS\"')
-		else: 
+		else:
 			print('Correct format name for: ' + filename)
 
 def silentDirectory_remove(filename):
@@ -41,7 +41,7 @@ def getColumns(filename,path):
 	print("Path: ")
 	print(path)
 	print("Filename: ")
-	print(filename)	
+	print(filename)
 	print(path + filename)
 	data = pd.DataFrame(columns=('Start', 'End', 'Word Transcription', 'Phoneme Transcription'))
 	reader = open(path + filename, 'r', errors='ignore')
@@ -70,13 +70,13 @@ def make_uttID(recording_id, nRows):
 
 	return s
 
-def unique(list1): 
-  
-    unique_list = [] 
-      
-    # traverse for all elements 
-    for x in list1: 
-        if x not in unique_list: 
+def unique(list1):
+
+    unique_list = []
+
+    # traverse for all elements
+    for x in list1:
+        if x not in unique_list:
             unique_list.append(x)
 
     return unique_list
@@ -87,7 +87,7 @@ def check_WAV_KAL(wav_path,kal_filenames,train):
 	x = lambda filename : filename[:-4]
 	wav_filenames = list(map(x,wav_filenames))
 	kal_filenames = list(map(x,kal_filenames))
-	
+
 	if train == 'yes':
 		for kal_file in kal_filenames:
 			if kal_file not in wav_filenames:
@@ -164,7 +164,7 @@ def lexiconDict(dataDict):
 				phonemes.append(iphoneme)
 
 	phonemes = list(map(lambda s: s.strip('\n'),phonemes))
-	
+
 	x = ''
 	new_dict = {}
 	for i in range(len(words)):
@@ -173,7 +173,7 @@ def lexiconDict(dataDict):
 	if len(words) != len(phonemes):
 		raise ValueError('Words: '+ str(len(words)) +'Phonemes: '+str(len(phonemes)))
 
-	
+
 	return new_dict,new_dict.values()
 
 
@@ -245,7 +245,7 @@ def makeCorpus(words, path):
 	c = ''
 	for iword in words:
 		c = c + iword + '\n'
-	
+
 	writer = open(path + 'corpus.txt','+w')
 	writer.write(c)
 	writer.close()
@@ -262,12 +262,12 @@ def main(train_ID):
 
 
 	trInfo_path = 'info_user/train/'
-	audiosTrain_path = 'audio/Experiment1/train/'
-	
+	audiosTrain_path = 'audio/experiment_lm/'
+
 	dataTrain_path = 'data_init/train/'
 	dataLocal = 'data_init/local/'
 	dataLocalDict = 'data_init/local/dict/'
-	
+
 
 	check_path_names([trInfo_path,dataTrain_path,dataLocal,dataLocalDict,audiosTrain_path])
 
@@ -275,12 +275,12 @@ def main(train_ID):
 # --------------------------------------------- MAIN PROCEDURES ---------------------------------------------
 
 # Setting up folders
-	
+
 	#Extract ids recording information:
 
 	trDataDict = {}
 
-	
+
 	silentDirectory_remove('data_init')
 	os.mkdir('data_init')
 	os.mkdir('data_init/lang')
@@ -303,7 +303,7 @@ def main(train_ID):
 
 	for id in train_ID:
 
-		
+
 		filename = search_by_subject(id,trInfo_path)
 		cols = getColumns(filename,trInfo_path)
 
@@ -320,13 +320,13 @@ def main(train_ID):
 	#print(trDataDict)
 
 
-	
+
 
 
 #Make segment files
-	
+
 	makeSegments(trDataDict, dataTrain_path)
-	
+
 #Make wavs.scp file
 
 	makeWav(trDataDict, dataTrain_path, audiosTrain_path)
@@ -335,11 +335,11 @@ def main(train_ID):
 #Make text file
 
 	makeText(trDataDict, dataTrain_path)
-	
+
 #Make utt2spk file
-	
+
 	makeUtt2spk(trDataDict, dataTrain_path)
-	
+
 #Make spk2utt file
 
 	from subprocess import Popen
@@ -349,7 +349,7 @@ def main(train_ID):
 
 
 #Make all dict files:
-	
+
 
 	lexDict, phonemes_per_word = lexiconDict(trDataDict)
 	makeLexicon(lexDict,dataLocalDict)
