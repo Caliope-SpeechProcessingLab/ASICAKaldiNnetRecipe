@@ -287,8 +287,8 @@ def main(argv):
             # --------------------- NNET2 CROSS VAL --------------------------#
             # ----------------------------------------------------------------#
 
-            # bashCommand = "python3 run.py --train --test"
-            bashCommand = "python3 run.py --test"
+            bashCommand = "python3 run.py --train --test"
+            # bashCommand = "python3 run.py --test"
             # bashCommand = "python3 run.py --train"
             process = subprocess.Popen(bashCommand,shell=True)
             output, error = process.communicate()
@@ -309,14 +309,15 @@ def main(argv):
 
             num_lines = sum(1 for line in open(resultFilename+'_'+excludedSpk))
             file = open(resultFilename+'_'+excludedSpk)
-            fileGlobal = open('results/resultGlobal', 'a')
+            fileGlobal = open('results/global_spk', 'a')
             for i in range(0,num_lines-1):
                 line = file.readline()
                 fileGlobal.write(line)
             fileGlobal.close()
 
             # Save raw results and csv
-            crossval_spk_functions.save_raw_result()
+            results_decode_path = 'exp/nnet2/nnet2_simple/decode/scoring_kaldi/wer_details/'
+            crossval_spk_functions.save_raw_result(results_decode_path)
 
         # end for
     except Exception as e:

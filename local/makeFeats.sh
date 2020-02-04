@@ -2,16 +2,16 @@
 
 #------------------------------------------------------------------SETTING GLOBAL PATHS---------------------------------------------------------------------------------------------------
 
-./path.sh
-
+# ./path.sh
+bash path.sh
 #------------------------------------------------------------------- EXTRACT FEATURES ---------------------------------------------------------------------------------------------
-train_cmd="utils/run.pl" 
-decode_cmd="utils/run.pl" 
+train_cmd="utils/run.pl"
+decode_cmd="utils/run.pl"
 
 nj=4
 # DATA PREPARATION.
 mfccdir=mfcc
-if [ ! -d $mfccdir ] 
+if [ ! -d $mfccdir ]
 then
     mkdir $mfccdir
 fi

@@ -12,7 +12,7 @@ def check_kal_names(filenames):
 	for filename in filenames:
 		if not re.match(r"[a-zA-Z0-9]+_[a-zA-Z0-9]+", filename):
 			raise ValueError('FILENAME FORMAT ERROR IN: ' + filename + ' It MUST consists on \"CHARACTERS_CHARACTERS\"')
-		else: 
+		else:
 			print('Correct format name for: ' + filename)
 
 def silentDirectory_remove(filename):
@@ -38,11 +38,11 @@ def search_by_subject(id,path):
 
 
 def getColumns(filename,path):
-	print("Path: ")
-	print(path)
-	print("Filename: ")
-	print(filename)	
-	print(path + filename)
+#	print("Path: ")
+#	print(path)
+#	print("Filename: ")
+#	print(filename)
+#	print(path + filename)
 	data = pd.DataFrame(columns=('Start', 'End', 'Word Transcription', 'Phoneme Transcription'))
 	reader = open(path + filename, 'r', errors='ignore')
 	lines = reader.readlines()
@@ -70,13 +70,13 @@ def make_uttID(recording_id, nRows):
 
 	return s
 
-def unique(list1): 
-  
-    unique_list = [] 
-      
-    # traverse for all elements 
-    for x in list1: 
-        if x not in unique_list: 
+def unique(list1):
+
+    unique_list = []
+
+    # traverse for all elements
+    for x in list1:
+        if x not in unique_list:
             unique_list.append(x)
 
     return unique_list
@@ -87,7 +87,7 @@ def check_WAV_KAL(wav_path,kal_filenames,train):
 	x = lambda filename : filename[:-4]
 	wav_filenames = list(map(x,wav_filenames))
 	kal_filenames = list(map(x,kal_filenames))
-	
+
 	if train == 'yes':
 		for kal_file in kal_filenames:
 			if kal_file not in wav_filenames:
@@ -166,7 +166,7 @@ def lexiconDict(dataDict):
 				phonemes.append(iphoneme)
 
 	phonemes = list(map(lambda s: s.strip('\n'),phonemes))
-	
+
 	x = ''
 	new_dict = {}
 	for i in range(len(words)):
@@ -175,7 +175,7 @@ def lexiconDict(dataDict):
 	if len(words) != len(phonemes):
 		raise ValueError('Words: '+ str(len(words)) +'Phonemes: '+str(len(phonemes)))
 
-	
+
 	return new_dict,new_dict.values()
 
 
@@ -247,7 +247,7 @@ def makeCorpus(words, path):
 	c = ''
 	for iword in words:
 		c = c + iword + '\n'
-	
+
 	writer = open(path + 'corpus.txt','+w')
 	writer.write(c)
 	writer.close()
@@ -263,14 +263,14 @@ def main(test_ID, audiosTest_path, testInfo_path):
 # ------------------------------------------- SETTING UP VARIABLES ---------------------------------------------
 
 	dataTest_path = 'data/test/'
-	
+
 	check_path_names([testInfo_path,dataTest_path,audiosTest_path])
 
 
 # --------------------------------------------- MAIN PROCEDURES ---------------------------------------------
 
 # Setting up folders
-	
+
 	#Extract ids recording information:
 
 	tsDataDict = {}
@@ -303,17 +303,17 @@ def main(test_ID, audiosTest_path, testInfo_path):
 
 #Make segment files
 	makeSegments(tsDataDict, dataTest_path)
-	
+
 #Make wavs.scp file
 	makeWav(tsDataDict, dataTest_path, audiosTest_path)
 
 #Make text file
 	makeText(tsDataDict, dataTest_path)
-	
+
 
 #Make utt2spk file
 	makeUtt2spk(tsDataDict, dataTest_path)
-	
+
 #Make spk2utt file
 
 	from subprocess import Popen
@@ -321,4 +321,4 @@ def main(test_ID, audiosTest_path, testInfo_path):
 	process = Popen(bashCommand,shell=True)
 	output, error = process.communicate()
 
-	
+

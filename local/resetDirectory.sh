@@ -1,6 +1,7 @@
+#!/bin/bash
 
 
-#--------------------------------------------------------------------SETTING DIRECTORY STRUCTURE---------------------------------------------------------------------------------------------
+#--------------------------SETTING DIRECTORY STRUCTURE------------------------#
 
 
 #Se borra la carpeta mfcc, data y exp
@@ -12,4 +13,3 @@ rm -rf data
 cp -vr data_init data
 mkdir mfcc
 mkdir exp
-
