@@ -22,7 +22,9 @@ train_subset_uttlist
 ehthumbs.db
 Thumbs.db
 ._.*
-
+*.txt
+utt*
+spk*
 *.wav
 *.kal
 *.TextGrid
