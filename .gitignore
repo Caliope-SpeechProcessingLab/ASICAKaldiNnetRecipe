@@ -37,10 +37,6 @@ topo
 lex*
 *.arpa
 segments
-spk*
-text
-utt*
-*.scp
 frame*
 *.log
 best_wer
