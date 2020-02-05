@@ -1,0 +1,527 @@
+N	Speaker ID	Task	Evaluation	Target	Response	Hit	Correct	Target Utterance	Responsed Utterance	Number of Syllables	TargetC	TargetV	RespC	RespV	TargetCManner	TargetCVoice	TargetCPlace	RespCanner	RespVoice	RespPlace	CorrC	CorrV	CorrManner	CorrVoice	CorrPlace	
+0	CA366	QL1	M00	ya	ya	C	1	ya te	ya ye	2	y	a	y	a	fric	Voiced	Coronal	fric	Voiced	Coronal	1	1	1	1	1	
+1	CA366	QL1	M00	te	ye	S	0	ya te	ya ye	2	t	e	y	e	Ocl	Vless	Coronal	fric	Voiced	Coronal	0	1	0	0	1	
+2	CA366	QL1	M00	no	***	D	0	no lu	*** rru	2	n	o	**	*	nas	Voiced	Coronal	Other	Other	Other	0	0	0	0	0	
+3	CA366	QL1	M00	lu	rru	S	0	no lu	*** rru	2	l	u	rr	u	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	0	1	1	1	1	
+4	CA366	QL1	M00	chu	yu	S	0	chu lo	yu nu	2	ch	u	y	u	Afic	Vless	Coronal	fric	Voiced	Coronal	0	1	0	0	1	
+5	CA366	QL1	M00	lo	nu	S	0	chu lo	yu nu	2	l	o	n	u	Aprox	Voiced	Coronal	nas	Voiced	Coronal	0	0	0	1	1	
+6	CA366	QL1	M00	pa	pa	C	1	pa ba ri mo	pa ba le mu	4	p	a	p	a	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+7	CA366	QL1	M00	ba	ba	C	1	pa ba ri mo	pa ba le mu	4	b	a	b	a	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	1	1	1	1	
+8	CA366	QL1	M00	ri	le	S	0	pa ba ri mo	pa ba le mu	4	r	i	l	e	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	0	0	1	1	1	
+9	CA366	QL1	M00	mo	mu	S	0	pa ba ri mo	pa ba le mu	4	m	o	m	u	nas	Voiced	Frontal	nas	Voiced	Frontal	1	0	1	1	1	
+10	CA366	QL1	M00	ko	ko	C	1	ko pa di	ko pa di	3	k	o	k	o	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+11	CA366	QL1	M00	pa	pa	C	1	ko pa di	ko pa di	3	p	a	p	a	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+12	CA366	QL1	M00	di	di	C	1	ko pa di	ko pa di	3	d	i	d	i	Ocl	Voiced	Coronal	Ocl	Voiced	Coronal	1	1	1	1	1	
+13	CA366	QL1	M00	li	le	S	0	li ga	le da	2	l	i	l	e	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	0	1	1	1	
+14	CA366	QL1	M00	ga	da	S	0	li ga	le da	2	g	a	d	a	Ocl	Voiced	back	Ocl	Voiced	Coronal	0	1	1	1	0	
+15	CA366	QL1	M00	be	pe	S	0	be yo lu	pe lo lu	3	b	e	p	e	Ocl	Voiced	Frontal	Ocl	Vless	Frontal	0	1	1	0	1	
+16	CA366	QL1	M00	yo	lo	S	0	be yo lu	pe lo lu	3	y	o	l	o	fric	Voiced	Coronal	Aprox	Voiced	Coronal	0	1	0	1	1	
+17	CA366	QL1	M00	lu	lu	C	1	be yo lu	pe lo lu	3	l	u	l	u	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+18	CA366	QL1	M00	so	so	C	1	so te to	so te to	3	s	o	s	o	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+19	CA366	QL1	M00	te	te	C	1	so te to	so te to	3	t	e	t	e	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+20	CA366	QL1	M00	to	to	C	1	so te to	so te to	3	t	o	t	o	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+21	CA366	QL1	M00	ma	ba	S	0	ma re xa sa	ba re xa sa	4	m	a	b	a	nas	Voiced	Frontal	Ocl	Voiced	Frontal	0	1	0	1	1	
+22	CA366	QL1	M00	re	re	C	1	ma re xa sa	ba re xa sa	4	r	e	r	e	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+23	CA366	QL1	M00	xa	xa	C	1	ma re xa sa	ba re xa sa	4	x	a	x	a	fric	Vless	back	fric	Vless	back	1	1	1	1	1	
+24	CA366	QL1	M00	sa	sa	C	1	ma re xa sa	ba re xa sa	4	s	a	s	a	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+25	CA366	QL1	M00	nu	lo	S	0	nu me ro	lo me ro	3	n	u	l	o	nas	Voiced	Coronal	Aprox	Voiced	Coronal	0	0	0	1	1	
+26	CA366	QL1	M00	me	me	C	1	nu me ro	lo me ro	3	m	e	m	e	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+27	CA366	QL1	M00	ro	ro	C	1	nu me ro	lo me ro	3	r	o	r	o	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+28	CA366	QL1	M00	ka	ka	C	1	ka pi tu bo	ka pi tu bo	4	k	a	k	a	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+29	CA366	QL1	M00	pi	pi	C	1	ka pi tu bo	ka pi tu bo	4	p	i	p	i	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+30	CA366	QL1	M00	tu	tu	C	1	ka pi tu bo	ka pi tu bo	4	t	u	t	u	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+31	CA366	QL1	M00	bo	bo	C	1	ka pi tu bo	ka pi tu bo	4	b	o	b	o	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	1	1	1	1	
+32	CA366	QL1	M00	bi	di	S	0	bi ka	di ka	2	b	i	d	i	Ocl	Voiced	Frontal	Ocl	Voiced	Coronal	0	1	1	1	0	
+33	CA366	QL1	M00	ka	ka	C	1	bi ka	di ka	2	k	a	k	a	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+34	CA366	QL1	M00	ba	ba	C	1	ba fe	ba fe	2	b	a	b	a	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	1	1	1	1	
+35	CA366	QL1	M00	fe	fe	C	1	ba fe	ba fe	2	f	e	f	e	fric	Vless	Frontal	fric	Vless	Frontal	1	1	1	1	1	
+36	CA366	QL1	M00	ti	ti	C	1	ti bo	ti bu	2	t	i	t	i	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+37	CA366	QL1	M00	bo	bu	S	0	ti bo	ti bu	2	b	o	b	u	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	0	1	1	1	
+38	CA366	QL1	M00	ka	ta	S	0	ka di	ta di	2	k	a	t	a	Ocl	Vless	back	Ocl	Vless	Coronal	0	1	1	1	0	
+39	CA366	QL1	M00	di	di	C	1	ka di	ta di	2	d	i	d	i	Ocl	Voiced	Coronal	Ocl	Voiced	Coronal	1	1	1	1	1	
+40	CA366	QL1	M00	fo	fo	C	1	fo bo xe ma	fo do bu ga	4	f	o	f	o	fric	Vless	Frontal	fric	Vless	Frontal	1	1	1	1	1	
+41	CA366	QL1	M00	bo	do	S	0	fo bo xe ma	fo do bu ga	4	b	o	d	o	Ocl	Voiced	Frontal	Ocl	Voiced	Coronal	0	1	1	1	0	
+42	CA366	QL1	M00	xe	bu	S	0	fo bo xe ma	fo do bu ga	4	x	e	b	u	fric	Vless	back	Ocl	Voiced	Frontal	0	0	0	0	0	
+43	CA366	QL1	M00	ma	ga	S	0	fo bo xe ma	fo do bu ga	4	m	a	g	a	nas	Voiced	Frontal	Ocl	Voiced	back	0	1	0	1	0	
+44	CA366	QL1	M00	pa	pa	C	1	pa ne	pa ne	2	p	a	p	a	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+45	CA366	QL1	M00	ne	ne	C	1	pa ne	pa ne	2	n	e	n	e	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+46	CA366	QL1	M00	tu	tu	C	1	tu fo	tu fo	2	t	u	t	u	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+47	CA366	QL1	M00	fo	fo	C	1	tu fo	tu fo	2	f	o	f	o	fric	Vless	Frontal	fric	Vless	Frontal	1	1	1	1	1	
+48	CA366	QL1	M00	sa	sa	C	1	sa te li to	sa te *** to	4	s	a	s	a	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+49	CA366	QL1	M00	te	te	C	1	sa te li to	sa te *** to	4	t	e	t	e	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+50	CA366	QL1	M00	li	***	D	0	sa te li to	sa te *** to	4	l	i	**	*	Aprox	Voiced	Coronal	Other	Other	Other	0	0	0	0	0	
+51	CA366	QL1	M00	to	to	C	1	sa te li to	sa te *** to	4	t	o	t	o	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+52	CA366	QL1	M00	fe	fes	S	0	fe cha	fes che	2	f	e	f	s	fric	Vless	Frontal	fric	Vless	Frontal	1	0	1	1	1	
+53	CA366	QL1	M00	cha	che	S	0	fe cha	fes che	2	ch	a	ch	e	Afic	Vless	Coronal	Afic	Vless	Coronal	1	0	1	1	1	
+54	CA366	QL1	M00	te	te	C	1	te bi	te mi	2	t	e	t	e	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+55	CA366	QL1	M00	bi	mi	S	0	te bi	te mi	2	b	i	m	i	Ocl	Voiced	Frontal	nas	Voiced	Frontal	0	1	0	1	1	
+56	CA366	QL1	M00	bi	di	S	0	bi ne so	di ne so	3	b	i	d	i	Ocl	Voiced	Frontal	Ocl	Voiced	Coronal	0	1	1	1	0	
+57	CA366	QL1	M00	ne	ne	C	1	bi ne so	di ne so	3	n	e	n	e	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+58	CA366	QL1	M00	so	so	C	1	bi ne so	di ne so	3	s	o	s	o	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+59	CA366	QL1	M00	ka	ka	C	1	ka ba ye te	ka *** ye ti	4	k	a	k	a	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+60	CA366	QL1	M00	ba	***	D	0	ka ba ye te	ka *** ye ti	4	b	a	**	*	Ocl	Voiced	Frontal	Other	Other	Other	0	0	0	0	0	
+61	CA366	QL1	M00	ye	ye	C	1	ka ba ye te	ka *** ye ti	4	y	e	y	e	fric	Voiced	Coronal	fric	Voiced	Coronal	1	1	1	1	1	
+62	CA366	QL1	M00	te	ti	S	0	ka ba ye te	ka *** ye ti	4	t	e	t	i	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	0	1	1	1	
+63	CA366	QL1	M00	ti	ti	C	1	ti tu lo	ti tu lo	3	t	i	t	i	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+64	CA366	QL1	M00	tu	tu	C	1	ti tu lo	ti tu lo	3	t	u	t	u	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+65	CA366	QL1	M00	lo	lo	C	1	ti tu lo	ti tu lo	3	l	o	l	o	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+66	CA366	QL1	M00	ko	ko	C	1	ko li za	ko li za	3	k	o	k	o	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+67	CA366	QL1	M00	li	li	C	1	ko li za	ko li za	3	l	i	l	i	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+68	CA366	QL1	M00	za	za	C	1	ko li za	ko li za	3	z	a	z	a	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+69	CA366	QL1	M00	ka	ka	C	1	ka rro ma do	ka *** rra do	4	k	a	k	a	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+70	CA366	QL1	M00	rro	***	D	0	ka rro ma do	ka *** rra do	4	rr	o	**	*	Aprox	Voiced	Coronal	Other	Other	Other	0	0	0	0	0	
+71	CA366	QL1	M00	ma	rra	S	0	ka rro ma do	ka *** rra do	4	m	a	rr	a	nas	Voiced	Frontal	Aprox	Voiced	Coronal	0	1	0	1	0	
+72	CA366	QL1	M00	do	do	C	1	ka rro ma do	ka *** rra do	4	d	o	d	o	Ocl	Voiced	Coronal	Ocl	Voiced	Coronal	1	1	1	1	1	
+73	CA366	QL1	M00	i	li	S	0	i nyo	li nyo	2	*		l	i	Other	Other	Other	Aprox	Voiced	Coronal	0	0	0	0	0	
+74	CA366	QL1	M00	nyo	nyo	C	1	i nyo	li nyo	2	ny	o	ny	o	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+75	CA366	QL1	M00	ma	ma	C	1	ma nya da	ma nya ta	3	m	a	m	a	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+76	CA366	QL1	M00	nya	nya	C	1	ma nya da	ma nya ta	3	ny	a	ny	a	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+77	CA366	QL1	M00	da	ta	S	0	ma nya da	ma nya ta	3	d	a	t	a	Ocl	Voiced	Coronal	Ocl	Vless	Coronal	0	1	1	0	1	
+78	CA366	QL1	M00	za	za	C	1	za fe lu di	za fe no ti	4	z	a	z	a	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+79	CA366	QL1	M00	fe	fe	C	1	za fe lu di	za fe no ti	4	f	e	f	e	fric	Vless	Frontal	fric	Vless	Frontal	1	1	1	1	1	
+80	CA366	QL1	M00	lu	no	S	0	za fe lu di	za fe no ti	4	l	u	n	o	Aprox	Voiced	Coronal	nas	Voiced	Coronal	0	0	0	1	1	
+81	CA366	QL1	M00	di	ti	S	0	za fe lu di	za fe no ti	4	d	i	t	i	Ocl	Voiced	Coronal	Ocl	Vless	Coronal	0	1	1	0	1	
+82	CA366	QL1	M00	la	la	C	1	la ro	la lu	2	l	a	l	a	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+83	CA366	QL1	M00	ro	lu	S	0	la ro	la lu	2	r	o	l	u	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	0	0	1	1	1	
+84	CA366	QL1	M00	zi	zi	C	1	zi ne	zi ni	2	z	i	z	i	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+85	CA366	QL1	M00	ne	ni	S	0	zi ne	zi ni	2	n	e	n	i	nas	Voiced	Coronal	nas	Voiced	Coronal	1	0	1	1	1	
+86	CA366	QL1	M00	se	se	C	1	se nyo ri ta	se ne di ta	4	s	e	s	e	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+87	CA366	QL1	M00	nyo	ne	S	0	se nyo ri ta	se ne di ta	4	ny	o	n	e	nas	Voiced	Coronal	nas	Voiced	Coronal	0	0	1	1	1	
+88	CA366	QL1	M00	ri	di	S	0	se nyo ri ta	se ne di ta	4	r	i	d	i	Aprox	Voiced	Coronal	Ocl	Voiced	Coronal	0	1	0	1	1	
+89	CA366	QL1	M00	ta	ta	C	1	se nyo ri ta	se ne di ta	4	t	a	t	a	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+90	CA366	QL1	M00	no	no	C	1	no fe	no fe	2	n	o	n	o	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+91	CA366	QL1	M00	fe	fe	C	1	no fe	no fe	2	f	e	f	e	fric	Vless	Frontal	fric	Vless	Frontal	1	1	1	1	1	
+92	CA366	QL1	M00	pe	te	S	0	pe li ku la	te li gu na	4	p	e	t	e	Ocl	Vless	Frontal	Ocl	Vless	Coronal	0	1	1	1	0	
+93	CA366	QL1	M00	li	li	C	1	pe li ku la	te li gu na	4	l	i	l	i	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+94	CA366	QL1	M00	ku	gu	S	0	pe li ku la	te li gu na	4	k	u	g	u	Ocl	Vless	back	Ocl	Voiced	back	0	1	1	0	1	
+95	CA366	QL1	M00	la	na	S	0	pe li ku la	te li gu na	4	l	a	n	a	Aprox	Voiced	Coronal	nas	Voiced	Coronal	0	1	0	1	1	
+96	CA366	QL1	M00	mo	mo	C	1	mo de	mo ne	2	m	o	m	o	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+97	CA366	QL1	M00	de	ne	S	0	mo de	mo ne	2	d	e	n	e	Ocl	Voiced	Coronal	nas	Voiced	Coronal	0	1	0	1	1	
+98	CA366	QL1	M00	ku	ku	C	1	ku xo ba	ku xo ba	3	k	u	k	u	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+99	CA366	QL1	M00	xo	xo	C	1	ku xo ba	ku xo ba	3	x	o	x	o	fric	Vless	back	fric	Vless	back	1	1	1	1	1	
+100	CA366	QL1	M00	ba	ba	C	1	ku xo ba	ku xo ba	3	b	a	b	a	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	1	1	1	1	
+101	CA366	QL1	M00	fo	fo	C	1	fo xo	fo xo	2	f	o	f	o	fric	Vless	Frontal	fric	Vless	Frontal	1	1	1	1	1	
+102	CA366	QL1	M00	xo	xo	C	1	fo xo	fo xo	2	x	o	x	o	fric	Vless	back	fric	Vless	back	1	1	1	1	1	
+103	CA366	QL1	M00	se	se	C	1	se ku	se ku	2	s	e	s	e	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+104	CA366	QL1	M00	ku	ku	C	1	se ku	se ku	2	k	u	k	u	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+105	CA366	QL1	M00	to	to	C	1	to rre	to rre	2	t	o	t	o	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+106	CA366	QL1	M00	rre	rre	C	1	to rre	to rre	2	rr	e	rr	e	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+107	CA366	QL1	M00	do	do	C	1	do ze	do ze	2	d	o	d	o	Ocl	Voiced	Coronal	Ocl	Voiced	Coronal	1	1	1	1	1	
+108	CA366	QL1	M00	ze	ze	C	1	do ze	do ze	2	z	e	z	e	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+109	CA366	QL1	M00	ba	ba	C	1	ba rre nyo	ba rre nya	3	b	a	b	a	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	1	1	1	1	
+110	CA366	QL1	M00	rre	rre	C	1	ba rre nyo	ba rre nya	3	rr	e	rr	e	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+111	CA366	QL1	M00	nyo	nya	S	0	ba rre nyo	ba rre nya	3	ny	o	ny	a	nas	Voiced	Coronal	nas	Voiced	Coronal	1	0	1	1	1	
+112	CA366	QL1	M00	me	me	C	1	me la ni to	me la ni to	4	m	e	m	e	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+113	CA366	QL1	M00	la	la	C	1	me la ni to	me la ni to	4	l	a	l	a	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+114	CA366	QL1	M00	ni	ni	C	1	me la ni to	me la ni to	4	n	i	n	i	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+115	CA366	QL1	M00	to	to	C	1	me la ni to	me la ni to	4	t	o	t	o	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+116	CA366	QL1	M00	ta	ta	C	1	ta le go	ta le go	3	t	a	t	a	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+117	CA366	QL1	M00	le	le	C	1	ta le go	ta le go	3	l	e	l	e	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+118	CA366	QL1	M00	go	go	C	1	ta le go	ta le go	3	g	o	g	o	Ocl	Voiced	back	Ocl	Voiced	back	1	1	1	1	1	
+119	CA366	QL1	M00	te	ke	S	0	te no	ke no	2	t	e	k	e	Ocl	Vless	Coronal	Ocl	Vless	back	0	1	1	1	0	
+120	CA366	QL1	M00	no	no	C	1	te no	ke no	2	n	o	n	o	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+121	CA366	QL1	M00	xe	xe	C	1	xe ra	xe ra	2	x	e	x	e	fric	Vless	back	fric	Vless	back	1	1	1	1	1	
+122	CA366	QL1	M00	ra	ra	C	1	xe ra	xe ra	2	r	a	r	a	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+123	CA366	QL1	M00	pa	pa	C	1	pa le ti ya	pa le ti ya	4	p	a	p	a	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+124	CA366	QL1	M00	le	le	C	1	pa le ti ya	pa le ti ya	4	l	e	l	e	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+125	CA366	QL1	M00	ti	ti	C	1	pa le ti ya	pa le ti ya	4	t	i	t	i	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+126	CA366	QL1	M00	ya	ya	C	1	pa le ti ya	pa le ti ya	4	y	a	y	a	fric	Voiced	Coronal	fric	Voiced	Coronal	1	1	1	1	1	
+127	CA366	QL1	M00	ka	ka	C	1	ka rro za	ka rro za	3	k	a	k	a	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+128	CA366	QL1	M00	rro	rro	C	1	ka rro za	ka rro za	3	rr	o	rr	o	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+129	CA366	QL1	M00	za	za	C	1	ka rro za	ka rro za	3	z	a	z	a	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+130	CA366	QL1	M00	ma	ma	C	1	ma po	ma po	2	m	a	m	a	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+131	CA366	QL1	M00	po	po	C	1	ma po	ma po	2	p	o	p	o	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+132	CA366	QL2	M00	so	so	C	1	so ya	so ya	2	s	o	s	o	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+133	CA366	QL2	M00	ya	ya	C	1	so ya	so ya	2	y	a	y	a	fric	Voiced	Coronal	fric	Voiced	Coronal	1	1	1	1	1	
+134	CA366	QL2	M00	be	be	C	1	be ta	be ta	2	b	e	b	e	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	1	1	1	1	
+135	CA366	QL2	M00	ta	ta	C	1	be ta	be ta	2	t	a	t	a	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+136	CA366	QL2	M00	me	me	C	1	me ze do ta	me ze do ta	4	m	e	m	e	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+137	CA366	QL2	M00	ze	ze	C	1	me ze do ta	me ze do ta	4	z	e	z	e	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+138	CA366	QL2	M00	do	do	C	1	me ze do ta	me ze do ta	4	d	o	d	o	Ocl	Voiced	Coronal	Ocl	Voiced	Coronal	1	1	1	1	1	
+139	CA366	QL2	M00	ta	ta	C	1	me ze do ta	me ze do ta	4	t	a	t	a	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+140	CA366	QL2	M00	ko	ko	C	1	ko li ya	ko yi ya	3	k	o	k	o	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+141	CA366	QL2	M00	li	yi	S	0	ko li ya	ko yi ya	3	l	i	y	i	Aprox	Voiced	Coronal	fric	Voiced	Coronal	0	1	0	1	1	
+142	CA366	QL2	M00	ya	ya	C	1	ko li ya	ko yi ya	3	y	a	y	a	fric	Voiced	Coronal	fric	Voiced	Coronal	1	1	1	1	1	
+143	CA366	QL2	M00	bu	bo	S	0	bu de	bo de	2	b	u	b	o	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	0	1	1	1	
+144	CA366	QL2	M00	de	de	C	1	bu de	bo de	2	d	e	d	e	Ocl	Voiced	Coronal	Ocl	Voiced	Coronal	1	1	1	1	1	
+145	CA366	QL2	M00	mo	mu	S	0	mo pu	mu ku	2	m	o	m	u	nas	Voiced	Frontal	nas	Voiced	Frontal	1	0	1	1	1	
+146	CA366	QL2	M00	pu	ku	S	0	mo pu	mu ku	2	p	u	k	u	Ocl	Vless	Frontal	Ocl	Vless	back	0	1	1	1	0	
+147	CA366	QL2	M00	lo	rra	S	0	lo ra	rra ra	2	l	o	rr	a	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	0	0	1	1	1	
+148	CA366	QL2	M00	ra	ra	C	1	lo ra	rra ra	2	r	a	r	a	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+149	CA366	QL2	M00	mi	ne	S	0	mi ri za	ne di ze	3	m	i	n	e	nas	Voiced	Frontal	nas	Voiced	Coronal	0	0	1	1	0	
+150	CA366	QL2	M00	ri	di	S	0	mi ri za	ne di ze	3	r	i	d	i	Aprox	Voiced	Coronal	Ocl	Voiced	Coronal	0	1	0	1	1	
+151	CA366	QL2	M00	za	ze	S	0	mi ri za	ne di ze	3	z	a	z	e	fric	Vless	Coronal	fric	Vless	Coronal	1	0	1	1	1	
+152	CA366	QL2	M00	ze	ze	C	1	ze ta	ze ta	2	z	e	z	e	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+153	CA366	QL2	M00	ta	ta	C	1	ze ta	ze ta	2	t	a	t	a	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+154	CA366	QL2	M00	bu	bu	C	1	bu fe lu	bu fe ro	3	b	u	b	u	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	1	1	1	1	
+155	CA366	QL2	M00	fe	fe	C	1	bu fe lu	bu fe ro	3	f	e	f	e	fric	Vless	Frontal	fric	Vless	Frontal	1	1	1	1	1	
+156	CA366	QL2	M00	lu	ro	S	0	bu fe lu	bu fe ro	3	l	u	r	o	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	0	0	1	1	1	
+157	CA366	QL2	M00	ma	ma	C	1	ma ni be fa	ma ni be sa	4	m	a	m	a	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+158	CA366	QL2	M00	ni	ni	C	1	ma ni be fa	ma ni be sa	4	n	i	n	i	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+159	CA366	QL2	M00	be	be	C	1	ma ni be fa	ma ni be sa	4	b	e	b	e	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	1	1	1	1	
+160	CA366	QL2	M00	fa	sa	S	0	ma ni be fa	ma ni be sa	4	f	a	s	a	fric	Vless	Frontal	fric	Vless	Coronal	0	1	1	1	0	
+161	CA366	QL2	M00	ma	ma	C	1	ma re xa da	ma rre xa da	4	m	a	m	a	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+162	CA366	QL2	M00	re	rre	S	0	ma re xa da	ma rre xa da	4	r	e	rr	e	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	0	1	1	1	1	
+163	CA366	QL2	M00	xa	xa	C	1	ma re xa da	ma rre xa da	4	x	a	x	a	fric	Vless	back	fric	Vless	back	1	1	1	1	1	
+164	CA366	QL2	M00	da	da	C	1	ma re xa da	ma rre xa da	4	d	a	d	a	Ocl	Voiced	Coronal	Ocl	Voiced	Coronal	1	1	1	1	1	
+165	CA366	QL2	M00	sa	so	S	0	sa te li te	so te *** ke	4	s	a	s	o	fric	Vless	Coronal	fric	Vless	Coronal	1	0	1	1	1	
+166	CA366	QL2	M00	te	te	C	1	sa te li te	so te *** ke	4	t	e	t	e	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+167	CA366	QL2	M00	li	***	D	0	sa te li te	so te *** ke	4	l	i	**	*	Aprox	Voiced	Coronal	Other	Other	Other	0	0	0	0	0	
+168	CA366	QL2	M00	te	ke	S	0	sa te li te	so te *** ke	4	t	e	k	e	Ocl	Vless	Coronal	Ocl	Vless	back	0	1	1	1	0	
+169	CA366	QL2	M00	pe	pe	C	1	pe so	pe so	2	p	e	p	e	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+170	CA366	QL2	M00	so	so	C	1	pe so	pe so	2	s	o	s	o	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+171	CA366	QL2	M00	bi	de	S	0	bi ra ni	de la ni	3	b	i	d	e	Ocl	Voiced	Frontal	Ocl	Voiced	Coronal	0	0	1	1	0	
+172	CA366	QL2	M00	ra	la	S	0	bi ra ni	de la ni	3	r	a	l	a	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	0	1	1	1	1	
+173	CA366	QL2	M00	ni	ni	C	1	bi ra ni	de la ni	3	n	i	n	i	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+174	CA366	QL2	M00	ti	ke	S	0	ti ze du ne	ke ze do ne	4	t	i	k	e	Ocl	Vless	Coronal	Ocl	Vless	back	0	0	1	1	0	
+175	CA366	QL2	M00	ze	ze	C	1	ti ze du ne	ke ze do ne	4	z	e	z	e	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+176	CA366	QL2	M00	du	do	S	0	ti ze du ne	ke ze do ne	4	d	u	d	o	Ocl	Voiced	Coronal	Ocl	Voiced	Coronal	1	0	1	1	1	
+177	CA366	QL2	M00	ne	ne	C	1	ti ze du ne	ke ze do ne	4	n	e	n	e	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+178	CA366	QL2	M00	ti	tir	S	0	ti yo	tir ye	2	t	i	t	r	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	0	1	1	1	
+179	CA366	QL2	M00	yo	ye	S	0	ti yo	tir ye	2	y	o	y	e	fric	Voiced	Coronal	fric	Voiced	Coronal	1	0	1	1	1	
+180	CA366	QL2	M00	no	no	C	1	no ze	no ze	2	n	o	n	o	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+181	CA366	QL2	M00	ze	ze	C	1	no ze	no ze	2	z	e	z	e	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+182	CA366	QL2	M00	pe	te	S	0	pe ta ti	te ta ti	3	p	e	t	e	Ocl	Vless	Frontal	Ocl	Vless	Coronal	0	1	1	1	0	
+183	CA366	QL2	M00	ta	ta	C	1	pe ta ti	te ta ti	3	t	a	t	a	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+184	CA366	QL2	M00	ti	ti	C	1	pe ta ti	te ta ti	3	t	i	t	i	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+185	CA366	QL2	M00	la	la	C	1	la do	la do	2	l	a	l	a	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+186	CA366	QL2	M00	do	do	C	1	la do	la do	2	d	o	d	o	Ocl	Voiced	Coronal	Ocl	Voiced	Coronal	1	1	1	1	1	
+187	CA366	QL2	M00	mu	gu	S	0	mu no	gu lu	2	m	u	g	u	nas	Voiced	Frontal	Ocl	Voiced	back	0	1	0	1	0	
+188	CA366	QL2	M00	no	lu	S	0	mu no	gu lu	2	n	o	l	u	nas	Voiced	Coronal	Aprox	Voiced	Coronal	0	0	0	1	1	
+189	CA366	QL2	M00	za	sa	S	0	za lu	sa lu	2	z	a	s	a	fric	Vless	Coronal	fric	Vless	Coronal	0	1	1	1	1	
+190	CA366	QL2	M00	lu	lu	C	1	za lu	sa lu	2	l	u	l	u	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+191	CA366	QL2	M00	ka	ta	S	0	ka rro ma to	ta rro ma to	4	k	a	t	a	Ocl	Vless	back	Ocl	Vless	Coronal	0	1	1	1	0	
+192	CA366	QL2	M00	rro	rro	C	1	ka rro ma to	ta rro ma to	4	rr	o	rr	o	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+193	CA366	QL2	M00	ma	ma	C	1	ka rro ma to	ta rro ma to	4	m	a	m	a	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+194	CA366	QL2	M00	to	to	C	1	ka rro ma to	ta rro ma to	4	t	o	t	o	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+195	CA366	QL2	M00	rri	xe	S	0	rri bu po	xe bu po	3	rr	i	x	e	Aprox	Voiced	Coronal	fric	Vless	back	0	0	0	0	0	
+196	CA366	QL2	M00	bu	bu	C	1	rri bu po	xe bu po	3	b	u	b	u	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	1	1	1	1	
+197	CA366	QL2	M00	po	po	C	1	rri bu po	xe bu po	3	p	o	p	o	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+198	CA366	QL2	M00	mu	mu	C	1	mu si ma	mu se ma	3	m	u	m	u	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+199	CA366	QL2	M00	si	se	S	0	mu si ma	mu se ma	3	s	i	s	e	fric	Vless	Coronal	fric	Vless	Coronal	1	0	1	1	1	
+200	CA366	QL2	M00	ma	ma	C	1	mu si ma	mu se ma	3	m	a	m	a	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+201	CA366	QL2	M00	de	de	C	1	de ba ti	de ba ti	3	d	e	d	e	Ocl	Voiced	Coronal	Ocl	Voiced	Coronal	1	1	1	1	1	
+202	CA366	QL2	M00	ba	ba	C	1	de ba ti	de ba ti	3	b	a	b	a	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	1	1	1	1	
+203	CA366	QL2	M00	ti	ti	C	1	de ba ti	de ba ti	3	t	i	t	i	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+204	CA366	QL2	M00	di	ge	S	0	di ne ro	ge ne ro	3	d	i	g	e	Ocl	Voiced	Coronal	Ocl	Voiced	back	0	0	1	1	0	
+205	CA366	QL2	M00	ne	ne	C	1	di ne ro	ge ne ro	3	n	e	n	e	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+206	CA366	QL2	M00	ro	ro	C	1	di ne ro	ge ne ro	3	r	o	r	o	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+207	CA366	QL2	M00	mo	mu	S	0	mo te	mu ti	2	m	o	m	u	nas	Voiced	Frontal	nas	Voiced	Frontal	1	0	1	1	1	
+208	CA366	QL2	M00	te	ti	S	0	mo te	mu ti	2	t	e	t	i	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	0	1	1	1	
+209	CA366	QL2	M00	ko	ko	C	1	ko da	ko da	2	k	o	k	o	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+210	CA366	QL2	M00	da	da	C	1	ko da	ko da	2	d	a	d	a	Ocl	Voiced	Coronal	Ocl	Voiced	Coronal	1	1	1	1	1	
+211	CA366	QL2	M00	ko	ko	C	1	ko zi	ko zi	2	k	o	k	o	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+212	CA366	QL2	M00	zi	zi	C	1	ko zi	ko zi	2	z	i	z	i	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+213	CA366	QL2	M00	di	de	S	0	di ku li te	de ku le ti	4	d	i	d	e	Ocl	Voiced	Coronal	Ocl	Voiced	Coronal	1	0	1	1	1	
+214	CA366	QL2	M00	ku	ku	C	1	di ku li te	de ku le ti	4	k	u	k	u	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+215	CA366	QL2	M00	li	le	S	0	di ku li te	de ku le ti	4	l	i	l	e	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	0	1	1	1	
+216	CA366	QL2	M00	te	ti	S	0	di ku li te	de ku le ti	4	t	e	t	i	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	0	1	1	1	
+217	CA366	QL2	M00	ko	ko	C	1	ko pa te	ko pa te	3	k	o	k	o	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+218	CA366	QL2	M00	pa	pa	C	1	ko pa te	ko pa te	3	p	a	p	a	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+219	CA366	QL2	M00	te	te	C	1	ko pa te	ko pa te	3	t	e	t	e	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+220	CA366	QL2	M00	do	do	C	1	do bu	do bu	2	d	o	d	o	Ocl	Voiced	Coronal	Ocl	Voiced	Coronal	1	1	1	1	1	
+221	CA366	QL2	M00	bu	bu	C	1	do bu	do bu	2	b	u	b	u	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	1	1	1	1	
+222	CA366	QL2	M00	no	no	C	1	no che	no cha	2	n	o	n	o	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+223	CA366	QL2	M00	che	cha	S	0	no che	no cha	2	ch	e	ch	a	Afic	Vless	Coronal	Afic	Vless	Coronal	1	0	1	1	1	
+224	CA366	QL2	M00	me	le	S	0	me po	le po	2	m	e	l	e	nas	Voiced	Frontal	Aprox	Voiced	Coronal	0	1	0	1	0	
+225	CA366	QL2	M00	po	po	C	1	me po	le po	2	p	o	p	o	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+226	CA366	QL2	M00	fi	fe	S	0	fi lo so fo	fe lo so fo	4	f	i	f	e	fric	Vless	Frontal	fric	Vless	Frontal	1	0	1	1	1	
+227	CA366	QL2	M00	lo	lo	C	1	fi lo so fo	fe lo so fo	4	l	o	l	o	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+228	CA366	QL2	M00	so	so	C	1	fi lo so fo	fe lo so fo	4	s	o	s	o	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+229	CA366	QL2	M00	fo	fo	C	1	fi lo so fo	fe lo so fo	4	f	o	f	o	fric	Vless	Frontal	fric	Vless	Frontal	1	1	1	1	1	
+230	CA366	QL2	M00	pa	pa	C	1	pa do	pa do	2	p	a	p	a	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+231	CA366	QL2	M00	do	do	C	1	pa do	pa do	2	d	o	d	o	Ocl	Voiced	Coronal	Ocl	Voiced	Coronal	1	1	1	1	1	
+232	CA366	QL2	M00	ka	ka	C	1	ka yo	ka yo	2	k	a	k	a	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+233	CA366	QL2	M00	yo	yo	C	1	ka yo	ka yo	2	y	o	y	o	fric	Voiced	Coronal	fric	Voiced	Coronal	1	1	1	1	1	
+234	CA366	QL2	M00	ka	***	D	0	ka pi tu lo	*** *** she lo	4	k	a	**	*	Ocl	Vless	back	Other	Other	Other	0	0	0	0	0	
+235	CA366	QL2	M00	pi	***	D	0	ka pi tu lo	*** *** she lo	4	p	i	**	*	Ocl	Vless	Frontal	Other	Other	Other	0	0	0	0	0	
+236	CA366	QL2	M00	tu	she	S	0	ka pi tu lo	*** *** she lo	4	t	u	sh	e	Ocl	Vless	Coronal	Other	Other	Other	0	0	0	0	0	
+237	CA366	QL2	M00	lo	lo	C	1	ka pi tu lo	*** *** she lo	4	l	o	l	o	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+238	CA366	QL2	M00	bru	bu	S	0	bru xa	bu xa	2	br	u	b	u	Other	Other	Other	Ocl	Voiced	Frontal	0	1	0	0	0	
+239	CA366	QL2	M00	xa	xa	C	1	bru xa	bu xa	2	x	a	x	a	fric	Vless	back	fric	Vless	back	1	1	1	1	1	
+240	CA366	QL2	M00	ma	ba	S	0	ma ye	ba yi	2	m	a	b	a	nas	Voiced	Frontal	Ocl	Voiced	Frontal	0	1	0	1	1	
+241	CA366	QL2	M00	ye	yi	S	0	ma ye	ba yi	2	y	e	y	i	fric	Voiced	Coronal	fric	Voiced	Coronal	1	0	1	1	1	
+242	CA366	QL2	M00	ka	ka	C	1	ka ba ye mo	ka ba ye mo	4	k	a	k	a	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+243	CA366	QL2	M00	ba	ba	C	1	ka ba ye mo	ka ba ye mo	4	b	a	b	a	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	1	1	1	1	
+244	CA366	QL2	M00	ye	ye	C	1	ka ba ye mo	ka ba ye mo	4	y	e	y	e	fric	Voiced	Coronal	fric	Voiced	Coronal	1	1	1	1	1	
+245	CA366	QL2	M00	mo	mo	C	1	ka ba ye mo	ka ba ye mo	4	m	o	m	o	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+246	CA366	QL2	M00	ma	ma	C	1	ma nya na	ma nya na	3	m	a	m	a	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+247	CA366	QL2	M00	nya	nya	C	1	ma nya na	ma nya na	3	ny	a	ny	a	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+248	CA366	QL2	M00	na	na	C	1	ma nya na	ma nya na	3	n	a	n	a	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+249	CA366	QL2	M00	fi	ze	S	0	fi da	ze da	2	f	i	z	e	fric	Vless	Frontal	fric	Vless	Coronal	0	0	1	1	0	
+250	CA366	QL2	M00	da	da	C	1	fi da	ze da	2	d	a	d	a	Ocl	Voiced	Coronal	Ocl	Voiced	Coronal	1	1	1	1	1	
+251	CA366	QL2	M00	ka	ta	S	0	ka rro nya	ta rro nya	3	k	a	t	a	Ocl	Vless	back	Ocl	Vless	Coronal	0	1	1	1	0	
+252	CA366	QL2	M00	rro	rro	C	1	ka rro nya	ta rro nya	3	rr	o	rr	o	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+253	CA366	QL2	M00	nya	nya	C	1	ka rro nya	ta rro nya	3	ny	a	ny	a	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+254	CA366	QL2	M00	bi	ni	S	0	bi ga	ni da	2	b	i	n	i	Ocl	Voiced	Frontal	nas	Voiced	Coronal	0	1	0	1	0	
+255	CA366	QL2	M00	ga	da	S	0	bi ga	ni da	2	g	a	d	a	Ocl	Voiced	back	Ocl	Voiced	Coronal	0	1	1	1	0	
+256	CA366	QL2	M00	mo	mo	C	1	mo *** pe di ta	mo go pe bi cha	5	m	o	m	o	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+257	CA366	QL2	M00	***	go	I	0	mo *** pe di ta	mo go pe bi cha	5	**	*	g	o	Other	Other	Other	Ocl	Voiced	back	0	0	0	0	0	
+258	CA366	QL2	M00	pe	pe	C	1	mo *** pe di ta	mo go pe bi cha	5	p	e	p	e	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+259	CA366	QL2	M00	di	bi	S	0	mo *** pe di ta	mo go pe bi cha	5	d	i	b	i	Ocl	Voiced	Coronal	Ocl	Voiced	Frontal	0	1	1	1	0	
+260	CA366	QL2	M00	ta	cha	S	0	mo *** pe di ta	mo go pe bi cha	5	t	a	ch	a	Ocl	Vless	Coronal	Afic	Vless	Coronal	0	1	0	1	1	
+261	CA366	QL3	M00	so	sa	S	0	so ri	sa ri	2	s	o	s	a	fric	Vless	Coronal	fric	Vless	Coronal	1	0	1	1	1	
+262	CA366	QL3	M00	ri	ri	C	1	so ri	sa ri	2	r	i	r	i	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+263	CA366	QL3	M00	ye	ye	C	1	ye da	ye da	2	y	e	y	e	fric	Voiced	Coronal	fric	Voiced	Coronal	1	1	1	1	1	
+264	CA366	QL3	M00	da	da	C	1	ye da	ye da	2	d	a	d	a	Ocl	Voiced	Coronal	Ocl	Voiced	Coronal	1	1	1	1	1	
+265	CA366	QL3	M00	ku	pu	S	0	ku fe	pu fe	2	k	u	p	u	Ocl	Vless	back	Ocl	Vless	Frontal	0	1	1	1	0	
+266	CA366	QL3	M00	fe	fe	C	1	ku fe	pu fe	2	f	e	f	e	fric	Vless	Frontal	fric	Vless	Frontal	1	1	1	1	1	
+267	CA366	QL3	M00	so	so	C	1	so ma	so ma	2	s	o	s	o	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+268	CA366	QL3	M00	ma	ma	C	1	so ma	so ma	2	m	a	m	a	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+269	CA366	QL3	M00	ka	ka	C	1	ka ba ye ro	ka *** gue le	4	k	a	k	a	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+270	CA366	QL3	M00	ba	***	D	0	ka ba ye ro	ka *** gue le	4	b	a	**	*	Ocl	Voiced	Frontal	Other	Other	Other	0	0	0	0	0	
+271	CA366	QL3	M00	ye	gue	S	0	ka ba ye ro	ka *** gue le	4	y	e	g	e	fric	Voiced	Coronal	Ocl	Voiced	back	0	1	0	1	0	
+272	CA366	QL3	M00	ro	le	S	0	ka ba ye ro	ka *** gue le	4	r	o	l	e	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	0	0	1	1	1	
+273	CA366	QL3	M00	be	be	C	1	be na	be na	2	b	e	b	e	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	1	1	1	1	
+274	CA366	QL3	M00	na	na	C	1	be na	be na	2	n	a	n	a	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+275	CA366	QL3	M00	mu	pu	S	0	mu si ka	pu si ta	3	m	u	p	u	nas	Voiced	Frontal	Ocl	Vless	Frontal	0	1	0	0	1	
+276	CA366	QL3	M00	si	si	C	1	mu si ka	pu si ta	3	s	i	s	i	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+277	CA366	QL3	M00	ka	ta	S	0	mu si ka	pu si ta	3	k	a	t	a	Ocl	Vless	back	Ocl	Vless	Coronal	0	1	1	1	0	
+278	CA366	QL3	M00	di	ni	S	0	di ku	ni ko	2	d	i	n	i	Ocl	Voiced	Coronal	nas	Voiced	Coronal	0	1	0	1	1	
+279	CA366	QL3	M00	ku	ko	S	0	di ku	ni ko	2	k	u	k	o	Ocl	Vless	back	Ocl	Vless	back	1	0	1	1	1	
+280	CA366	QL3	M00	ka	ka	C	1	ka mi ro	ka mi na	3	k	a	k	a	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+281	CA366	QL3	M00	mi	mi	C	1	ka mi ro	ka mi na	3	m	i	m	i	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+282	CA366	QL3	M00	ro	na	S	0	ka mi ro	ka mi na	3	r	o	n	a	Aprox	Voiced	Coronal	nas	Voiced	Coronal	0	0	0	1	1	
+283	CA366	QL3	M00	me	le	S	0	me ze do ra	le ze *** da	4	m	e	l	e	nas	Voiced	Frontal	Aprox	Voiced	Coronal	0	1	0	1	0	
+284	CA366	QL3	M00	ze	ze	C	1	me ze do ra	le ze *** da	4	z	e	z	e	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+285	CA366	QL3	M00	do	***	D	0	me ze do ra	le ze *** da	4	d	o	**	*	Ocl	Voiced	Coronal	Other	Other	Other	0	0	0	0	0	
+286	CA366	QL3	M00	ra	da	S	0	me ze do ra	le ze *** da	4	r	a	d	a	Aprox	Voiced	Coronal	Ocl	Voiced	Coronal	0	1	0	1	1	
+287	CA366	QL3	M00	ze	ze	C	1	ze bi	ze bi	2	z	e	z	e	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+288	CA366	QL3	M00	bi	bi	C	1	ze bi	ze bi	2	b	i	b	i	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	1	1	1	1	
+289	CA366	QL3	M00	ta	ta	C	1	ta xo	ta xo	2	t	a	t	a	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+290	CA366	QL3	M00	xo	xo	C	1	ta xo	ta xo	2	x	o	x	o	fric	Vless	back	fric	Vless	back	1	1	1	1	1	
+291	CA366	QL3	M00	pa	***	D	0	pa li xo	*** she xa	3	p	a	**	*	Ocl	Vless	Frontal	Other	Other	Other	0	0	0	0	0	
+292	CA366	QL3	M00	li	she	S	0	pa li xo	*** she xa	3	l	i	sh	e	Aprox	Voiced	Coronal	Other	Other	Other	0	0	0	0	0	
+293	CA366	QL3	M00	xo	xa	S	0	pa li xo	*** she xa	3	x	o	x	a	fric	Vless	back	fric	Vless	back	1	0	1	1	1	
+294	CA366	QL3	M00	mi	me	S	0	mi ra	me da	2	m	i	m	e	nas	Voiced	Frontal	nas	Voiced	Frontal	1	0	1	1	1	
+295	CA366	QL3	M00	ra	da	S	0	mi ra	me da	2	r	a	d	a	Aprox	Voiced	Coronal	Ocl	Voiced	Coronal	0	1	0	1	1	
+296	CA366	QL3	M00	me	***	D	0	me di zi ra	*** mi zi ra	4	m	e	**	*	nas	Voiced	Frontal	Other	Other	Other	0	0	0	0	0	
+297	CA366	QL3	M00	di	mi	S	0	me di zi ra	*** mi zi ra	4	d	i	m	i	Ocl	Voiced	Coronal	nas	Voiced	Frontal	0	1	0	1	0	
+298	CA366	QL3	M00	zi	zi	C	1	me di zi ra	*** mi zi ra	4	z	i	z	i	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+299	CA366	QL3	M00	ra	ra	C	1	me di zi ra	*** mi zi ra	4	r	a	r	a	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+300	CA366	QL3	M00	la	la	C	1	la ti ga zo	la ti ga zo	4	l	a	l	a	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+301	CA366	QL3	M00	ti	ti	C	1	la ti ga zo	la ti ga zo	4	t	i	t	i	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+302	CA366	QL3	M00	ga	ga	C	1	la ti ga zo	la ti ga zo	4	g	a	g	a	Ocl	Voiced	back	Ocl	Voiced	back	1	1	1	1	1	
+303	CA366	QL3	M00	zo	zo	C	1	la ti ga zo	la ti ga zo	4	z	o	z	o	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+304	CA366	QL3	M00	no	po	S	0	no ze ba	po ze da	3	n	o	p	o	nas	Voiced	Coronal	Ocl	Vless	Frontal	0	1	0	0	0	
+305	CA366	QL3	M00	ze	ze	C	1	no ze ba	po ze da	3	z	e	z	e	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+306	CA366	QL3	M00	ba	da	S	0	no ze ba	po ze da	3	b	a	d	a	Ocl	Voiced	Frontal	Ocl	Voiced	Coronal	0	1	1	1	0	
+307	CA366	QL3	M00	u	pu	S	0	u fo	pu fo	2	*		p	u	Other	Other	Other	Ocl	Vless	Frontal	0	0	0	0	0	
+308	CA366	QL3	M00	fo	fo	C	1	u fo	pu fo	2	f	o	f	o	fric	Vless	Frontal	fric	Vless	Frontal	1	1	1	1	1	
+309	CA366	QL3	M00	ka	ka	C	1	ka po di no	ka po di no	4	k	a	k	a	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+310	CA366	QL3	M00	po	po	C	1	ka po di no	ka po di no	4	p	o	p	o	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+311	CA366	QL3	M00	di	di	C	1	ka po di no	ka po di no	4	d	i	d	i	Ocl	Voiced	Coronal	Ocl	Voiced	Coronal	1	1	1	1	1	
+312	CA366	QL3	M00	no	no	C	1	ka po di no	ka po di no	4	n	o	n	o	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+313	CA366	QL3	M00	fi	***	D	0	fi lo so fo	*** tu so fo	4	f	i	**	*	fric	Vless	Frontal	Other	Other	Other	0	0	0	0	0	
+314	CA366	QL3	M00	lo	tu	S	0	fi lo so fo	*** tu so fo	4	l	o	t	u	Aprox	Voiced	Coronal	Ocl	Vless	Coronal	0	0	0	0	1	
+315	CA366	QL3	M00	so	so	C	1	fi lo so fo	*** tu so fo	4	s	o	s	o	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+316	CA366	QL3	M00	fo	fo	C	1	fi lo so fo	*** tu so fo	4	f	o	f	o	fric	Vless	Frontal	fric	Vless	Frontal	1	1	1	1	1	
+317	CA366	QL3	M00	mi	mi	C	1	mi bo fe ma	mi bu fe lu	4	m	i	m	i	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+318	CA366	QL3	M00	bo	bu	S	0	mi bo fe ma	mi bu fe lu	4	b	o	b	u	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	0	1	1	1	
+319	CA366	QL3	M00	fe	fe	C	1	mi bo fe ma	mi bu fe lu	4	f	e	f	e	fric	Vless	Frontal	fric	Vless	Frontal	1	1	1	1	1	
+320	CA366	QL3	M00	ma	lu	S	0	mi bo fe ma	mi bu fe lu	4	m	a	l	u	nas	Voiced	Frontal	Aprox	Voiced	Coronal	0	0	0	1	0	
+321	CA366	QL3	M00	mi	***	D	0	mi ri ya	*** li ye	3	m	i	**	*	nas	Voiced	Frontal	Other	Other	Other	0	0	0	0	0	
+322	CA366	QL3	M00	ri	li	S	0	mi ri ya	*** li ye	3	r	i	l	i	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	0	1	1	1	1	
+323	CA366	QL3	M00	ya	ye	S	0	mi ri ya	*** li ye	3	y	a	y	e	fric	Voiced	Coronal	fric	Voiced	Coronal	1	0	1	1	1	
+324	CA366	QL3	M00	zi	ze	S	0	zi bu fe ne	ze gu fe ne	4	z	i	z	e	fric	Vless	Coronal	fric	Vless	Coronal	1	0	1	1	1	
+325	CA366	QL3	M00	bu	gu	S	0	zi bu fe ne	ze gu fe ne	4	b	u	g	u	Ocl	Voiced	Frontal	Ocl	Voiced	back	0	1	1	1	0	
+326	CA366	QL3	M00	fe	fe	C	1	zi bu fe ne	ze gu fe ne	4	f	e	f	e	fric	Vless	Frontal	fric	Vless	Frontal	1	1	1	1	1	
+327	CA366	QL3	M00	ne	ne	C	1	zi bu fe ne	ze gu fe ne	4	n	e	n	e	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+328	CA366	QL3	M00	so	so	C	1	so ga	so da	2	s	o	s	o	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+329	CA366	QL3	M00	ga	da	S	0	so ga	so da	2	g	a	d	a	Ocl	Voiced	back	Ocl	Voiced	Coronal	0	1	1	1	0	
+330	CA366	QL3	M00	mo	po	S	0	mo pa so ka	po pa so ta	4	m	o	p	o	nas	Voiced	Frontal	Ocl	Vless	Frontal	0	1	0	0	1	
+331	CA366	QL3	M00	pa	pa	C	1	mo pa so ka	po pa so ta	4	p	a	p	a	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+332	CA366	QL3	M00	so	so	C	1	mo pa so ka	po pa so ta	4	s	o	s	o	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+333	CA366	QL3	M00	ka	ta	S	0	mo pa so ka	po pa so ta	4	k	a	t	a	Ocl	Vless	back	Ocl	Vless	Coronal	0	1	1	1	0	
+334	CA366	QL3	M00	ma	***	D	0	ma ni be la	*** ni be ***	4	m	a	**	*	nas	Voiced	Frontal	Other	Other	Other	0	0	0	0	0	
+335	CA366	QL3	M00	ni	ni	C	1	ma ni be la	*** ni be ***	4	n	i	n	i	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+336	CA366	QL3	M00	be	be	C	1	ma ni be la	*** ni be ***	4	b	e	b	e	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	1	1	1	1	
+337	CA366	QL3	M00	la	***	D	0	ma ni be la	*** ni be ***	4	l	a	**	*	Aprox	Voiced	Coronal	Other	Other	Other	0	0	0	0	0	
+338	CA366	QL3	M00	pe	li	S	0	pe ta te	li ta ti	3	p	e	l	i	Ocl	Vless	Frontal	Aprox	Voiced	Coronal	0	0	0	0	0	
+339	CA366	QL3	M00	ta	ta	C	1	pe ta te	li ta ti	3	t	a	t	a	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+340	CA366	QL3	M00	te	ti	S	0	pe ta te	li ta ti	3	t	e	t	i	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	0	1	1	1	
+341	CA366	QL3	M00	de	le	S	0	de ba te	le mu pe	3	d	e	l	e	Ocl	Voiced	Coronal	Aprox	Voiced	Coronal	0	1	0	1	1	
+342	CA366	QL3	M00	ba	mu	S	0	de ba te	le mu pe	3	b	a	m	u	Ocl	Voiced	Frontal	nas	Voiced	Frontal	0	0	0	1	1	
+343	CA366	QL3	M00	te	pe	S	0	de ba te	le mu pe	3	t	e	p	e	Ocl	Vless	Coronal	Ocl	Vless	Frontal	0	1	1	1	0	
+344	CA366	QL3	M00	lu	nu	S	0	lu cha	nu cha	2	l	u	n	u	Aprox	Voiced	Coronal	nas	Voiced	Coronal	0	1	0	1	1	
+345	CA366	QL3	M00	cha	cha	C	1	lu cha	nu cha	2	ch	a	ch	a	Afic	Vless	Coronal	Afic	Vless	Coronal	1	1	1	1	1	
+346	CA366	QL3	M00	ka	ka	C	1	ka mo	ka bu	2	k	a	k	a	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+347	CA366	QL3	M00	mo	bu	S	0	ka mo	ka bu	2	m	o	b	u	nas	Voiced	Frontal	Ocl	Voiced	Frontal	0	0	0	1	1	
+348	CA366	QL3	M00	ko	ko	C	1	ko di so	ko di ze	3	k	o	k	o	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+349	CA366	QL3	M00	di	di	C	1	ko di so	ko di ze	3	d	i	d	i	Ocl	Voiced	Coronal	Ocl	Voiced	Coronal	1	1	1	1	1	
+350	CA366	QL3	M00	so	ze	S	0	ko di so	ko di ze	3	s	o	z	e	fric	Vless	Coronal	fric	Vless	Coronal	0	0	1	1	1	
+351	CA366	QL3	M00	so	so	C	1	so ma zi	so mon fi	3	s	o	s	o	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+352	CA366	QL3	M00	ma	mon	S	0	so ma zi	so mon fi	3	m	a	m	n	nas	Voiced	Frontal	nas	Voiced	Frontal	1	0	1	1	1	
+353	CA366	QL3	M00	zi	fi	S	0	so ma zi	so mon fi	3	z	i	f	i	fric	Vless	Coronal	fric	Vless	Frontal	0	1	1	1	0	
+354	CA366	QL3	M00	lo	mo	S	0	lo na	mo na	2	l	o	m	o	Aprox	Voiced	Coronal	nas	Voiced	Frontal	0	1	0	1	0	
+355	CA366	QL3	M00	na	na	C	1	lo na	mo na	2	n	a	n	a	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+356	CA366	QL3	M00	rro	rro	C	1	rro ko	rro ko	2	rr	o	rr	o	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+357	CA366	QL3	M00	ko	ko	C	1	rro ko	rro ko	2	k	o	k	o	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+358	CA366	QL3	M00	ko	ko	C	1	ko pa	ko pa	2	k	o	k	o	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+359	CA366	QL3	M00	pa	pa	C	1	ko pa	ko pa	2	p	a	p	a	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+360	CA366	QL3	M00	pe	zi	S	0	pe ta ma	zi ta ma	3	p	e	z	i	Ocl	Vless	Frontal	fric	Vless	Coronal	0	0	0	1	0	
+361	CA366	QL3	M00	ta	ta	C	1	pe ta ma	zi ta ma	3	t	a	t	a	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+362	CA366	QL3	M00	ma	ma	C	1	pe ta ma	zi ta ma	3	m	a	m	a	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+363	CA366	QL3	M00	ge	de	S	0	ge za	de za	2	g	e	d	e	Ocl	Voiced	back	Ocl	Voiced	Coronal	0	1	1	1	0	
+364	CA366	QL3	M00	za	za	C	1	ge za	de za	2	z	a	z	a	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+365	CA366	QL3	M00	ma	***	D	0	ma no ta go	*** no ta go	4	m	a	**	*	nas	Voiced	Frontal	Other	Other	Other	0	0	0	0	0	
+366	CA366	QL3	M00	no	no	C	1	ma no ta go	*** no ta go	4	n	o	n	o	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+367	CA366	QL3	M00	ta	ta	C	1	ma no ta go	*** no ta go	4	t	a	t	a	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+368	CA366	QL3	M00	go	go	C	1	ma no ta go	*** no ta go	4	g	o	g	o	Ocl	Voiced	back	Ocl	Voiced	back	1	1	1	1	1	
+369	CA366	QL3	M00	bu	bu	C	1	bu ke	bu pe	2	b	u	b	u	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	1	1	1	1	
+370	CA366	QL3	M00	ke	pe	S	0	bu ke	bu pe	2	k	e	p	e	Ocl	Vless	back	Ocl	Vless	Frontal	0	1	1	1	0	
+371	CA366	QL3	M00	me	lu	S	0	me te	lu ke	2	m	e	l	u	nas	Voiced	Frontal	Aprox	Voiced	Coronal	0	0	0	1	0	
+372	CA366	QL3	M00	te	ke	S	0	me te	lu ke	2	t	e	k	e	Ocl	Vless	Coronal	Ocl	Vless	back	0	1	1	1	0	
+373	CA366	QL3	M00	pe	pe	C	1	pe ta	pe ta	2	p	e	p	e	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+374	CA366	QL3	M00	ta	ta	C	1	pe ta	pe ta	2	t	a	t	a	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+375	CA366	QL3	M00	rre	rre	C	1	rre ti ra za	rre te ra za	4	rr	e	rr	e	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+376	CA366	QL3	M00	ti	te	S	0	rre ti ra za	rre te ra za	4	t	i	t	e	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	0	1	1	1	
+377	CA366	QL3	M00	ra	ra	C	1	rre ti ra za	rre te ra za	4	r	a	r	a	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+378	CA366	QL3	M00	za	za	C	1	rre ti ra za	rre te ra za	4	z	a	z	a	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+379	CA366	QL3	M00	ti	zi	S	0	ti bu	zi bu	2	t	i	z	i	Ocl	Vless	Coronal	fric	Vless	Coronal	0	1	0	1	1	
+380	CA366	QL3	M00	bu	bu	C	1	ti bu	zi bu	2	b	u	b	u	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	1	1	1	1	
+381	CA366	QL3	M00	be	me	S	0	be ya ze	me ya ze	3	b	e	m	e	Ocl	Voiced	Frontal	nas	Voiced	Frontal	0	1	0	1	1	
+382	CA366	QL3	M00	ya	ya	C	1	be ya ze	me ya ze	3	y	a	y	a	fric	Voiced	Coronal	fric	Voiced	Coronal	1	1	1	1	1	
+383	CA366	QL3	M00	ze	ze	C	1	be ya ze	me ya ze	3	z	e	z	e	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+384	CA366	QL3	M00	mu	bo	S	0	mu lo	bo lo	2	m	u	b	o	nas	Voiced	Frontal	Ocl	Voiced	Frontal	0	0	0	1	1	
+385	CA366	QL3	M00	lo	lo	C	1	mu lo	bo lo	2	l	o	l	o	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+386	CA366	QL3	M00	zi	zi	C	1	zi ma	zi da	2	z	i	z	i	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+387	CA366	QL3	M00	ma	da	S	0	zi ma	zi da	2	m	a	d	a	nas	Voiced	Frontal	Ocl	Voiced	Coronal	0	1	0	1	0	
+388	CA366	QL3	M00	mo	go	S	0	mo be ya	go rre ya	3	m	o	g	o	nas	Voiced	Frontal	Ocl	Voiced	back	0	1	0	1	0	
+389	CA366	QL3	M00	be	rre	S	0	mo be ya	go rre ya	3	b	e	rr	e	Ocl	Voiced	Frontal	Aprox	Voiced	Coronal	0	1	0	1	0	
+390	CA366	QL3	M00	ya	ya	C	1	mo be ya	go rre ya	3	y	a	y	a	fric	Voiced	Coronal	fric	Voiced	Coronal	1	1	1	1	1	
+391	CA366	QL3	M00	pi	rre	S	0	pi gu	rre gu	2	p	i	rr	e	Ocl	Vless	Frontal	Aprox	Voiced	Coronal	0	0	0	0	0	
+392	CA366	QL3	M00	gu	gu	C	1	pi gu	rre gu	2	g	u	g	u	Ocl	Voiced	back	Ocl	Voiced	back	1	1	1	1	1	
+393	CA366	QL4	M00	chu	chu	C	1	chu so	chu so	2	ch	u	ch	u	Afic	Vless	Coronal	Afic	Vless	Coronal	1	1	1	1	1	
+394	CA366	QL4	M00	so	so	C	1	chu so	chu so	2	s	o	s	o	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+395	CA366	QL4	M00	fe	fe	C	1	fe za	fe za	2	f	e	f	e	fric	Vless	Frontal	fric	Vless	Frontal	1	1	1	1	1	
+396	CA366	QL4	M00	za	za	C	1	fe za	fe za	2	z	a	z	a	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+397	CA366	QL4	M00	pe	pe	C	1	pe ta ka	pe ta ka	3	p	e	p	e	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+398	CA366	QL4	M00	ta	ta	C	1	pe ta ka	pe ta ka	3	t	a	t	a	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+399	CA366	QL4	M00	ka	ka	C	1	pe ta ka	pe ta ka	3	k	a	k	a	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+400	CA366	QL4	M00	do	do	C	1	do ya	do ya	2	d	o	d	o	Ocl	Voiced	Coronal	Ocl	Voiced	Coronal	1	1	1	1	1	
+401	CA366	QL4	M00	ya	ya	C	1	do ya	do ya	2	y	a	y	a	fric	Voiced	Coronal	fric	Voiced	Coronal	1	1	1	1	1	
+402	CA366	QL4	M00	li	me	S	0	li ya	me ya	2	l	i	m	e	Aprox	Voiced	Coronal	nas	Voiced	Frontal	0	0	0	1	0	
+403	CA366	QL4	M00	ya	ya	C	1	li ya	me ya	2	y	a	y	a	fric	Voiced	Coronal	fric	Voiced	Coronal	1	1	1	1	1	
+404	CA366	QL4	M00	ka	ka	C	1	ka mi no	ka mi nu	3	k	a	k	a	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+405	CA366	QL4	M00	mi	mi	C	1	ka mi no	ka mi nu	3	m	i	m	i	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+406	CA366	QL4	M00	no	nu	S	0	ka mi no	ka mi nu	3	n	o	n	u	nas	Voiced	Coronal	nas	Voiced	Coronal	1	0	1	1	1	
+407	CA366	QL4	M00	pa	pa	C	1	pa re so	pa re so	3	p	a	p	a	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+408	CA366	QL4	M00	re	re	C	1	pa re so	pa re so	3	r	e	r	e	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+409	CA366	QL4	M00	so	so	C	1	pa re so	pa re so	3	s	o	s	o	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+410	CA366	QL4	M00	so	so	C	1	so da	so da	2	s	o	s	o	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+411	CA366	QL4	M00	da	da	C	1	so da	so da	2	d	a	d	a	Ocl	Voiced	Coronal	Ocl	Voiced	Coronal	1	1	1	1	1	
+412	CA366	QL4	M00	ti	ke	S	0	ti tu mo	ke tu mo	3	t	i	k	e	Ocl	Vless	Coronal	Ocl	Vless	back	0	0	1	1	0	
+413	CA366	QL4	M00	tu	tu	C	1	ti tu mo	ke tu mo	3	t	u	t	u	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+414	CA366	QL4	M00	mo	mo	C	1	ti tu mo	ke tu mo	3	m	o	m	o	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+415	CA366	QL4	M00	di	ne	S	0	di ma ko	ne ma ku	3	d	i	n	e	Ocl	Voiced	Coronal	nas	Voiced	Coronal	0	0	0	1	1	
+416	CA366	QL4	M00	ma	ma	C	1	di ma ko	ne ma ku	3	m	a	m	a	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+417	CA366	QL4	M00	ko	ku	S	0	di ma ko	ne ma ku	3	k	o	k	u	Ocl	Vless	back	Ocl	Vless	back	1	0	1	1	1	
+418	CA366	QL4	M00	ka	ka	C	1	ka nyo	ka nya	2	k	a	k	a	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+419	CA366	QL4	M00	nyo	nya	S	0	ka nyo	ka nya	2	ny	o	ny	a	nas	Voiced	Coronal	nas	Voiced	Coronal	1	0	1	1	1	
+420	CA366	QL4	M00	ko	ko	C	1	ko ga	ko ga	2	k	o	k	o	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+421	CA366	QL4	M00	ga	ga	C	1	ko ga	ko ga	2	g	a	g	a	Ocl	Voiced	back	Ocl	Voiced	back	1	1	1	1	1	
+422	CA366	QL4	M00	ye	ye	C	1	ye ma	ye ma	2	y	e	y	e	fric	Voiced	Coronal	fric	Voiced	Coronal	1	1	1	1	1	
+423	CA366	QL4	M00	ma	ma	C	1	ye ma	ye ma	2	m	a	m	a	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+424	CA366	QL4	M00	mo	mo	C	1	mo pe	mo pe	2	m	o	m	o	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+425	CA366	QL4	M00	pe	pe	C	1	mo pe	mo pe	2	p	e	p	e	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+426	CA366	QL4	M00	na	da	S	0	na ze	da ze	2	n	a	d	a	nas	Voiced	Coronal	Ocl	Voiced	Coronal	0	1	0	1	1	
+427	CA366	QL4	M00	ze	ze	C	1	na ze	da ze	2	z	e	z	e	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+428	CA366	QL4	M00	ge	de	S	0	ge rra	de rra	2	g	e	d	e	Ocl	Voiced	back	Ocl	Voiced	Coronal	0	1	1	1	0	
+429	CA366	QL4	M00	rra	rra	C	1	ge rra	de rra	2	rr	a	rr	a	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+430	CA366	QL4	M00	so	so	C	1	so ga li na	so ga le na	4	s	o	s	o	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+431	CA366	QL4	M00	ga	ga	C	1	so ga li na	so ga le na	4	g	a	g	a	Ocl	Voiced	back	Ocl	Voiced	back	1	1	1	1	1	
+432	CA366	QL4	M00	li	le	S	0	so ga li na	so ga le na	4	l	i	l	e	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	0	1	1	1	
+433	CA366	QL4	M00	na	na	C	1	so ga li na	so ga le na	4	n	a	n	a	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+434	CA366	QL4	M00	pe	pe	C	1	pe li ku za	pe li ko za	4	p	e	p	e	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+435	CA366	QL4	M00	li	li	C	1	pe li ku za	pe li ko za	4	l	i	l	i	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+436	CA366	QL4	M00	ku	ko	S	0	pe li ku za	pe li ko za	4	k	u	k	o	Ocl	Vless	back	Ocl	Vless	back	1	0	1	1	1	
+437	CA366	QL4	M00	za	za	C	1	pe li ku za	pe li ko za	4	z	a	z	a	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+438	CA366	QL4	M00	di	di	C	1	di la	di la	2	d	i	d	i	Ocl	Voiced	Coronal	Ocl	Voiced	Coronal	1	1	1	1	1	
+439	CA366	QL4	M00	la	la	C	1	di la	di la	2	l	a	l	a	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+440	CA366	QL4	M00	no	no	C	1	no be la	no ra da	3	n	o	n	o	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+441	CA366	QL4	M00	be	ra	S	0	no be la	no ra da	3	b	e	r	a	Ocl	Voiced	Frontal	Aprox	Voiced	Coronal	0	0	0	1	0	
+442	CA366	QL4	M00	la	da	S	0	no be la	no ra da	3	l	a	d	a	Aprox	Voiced	Coronal	Ocl	Voiced	Coronal	0	1	0	1	1	
+443	CA366	QL4	M00	pe	pe	C	1	pe ku ga ta	pe xo ga ta	4	p	e	p	e	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+444	CA366	QL4	M00	ku	xo	S	0	pe ku ga ta	pe xo ga ta	4	k	u	x	o	Ocl	Vless	back	fric	Vless	back	0	0	0	1	1	
+445	CA366	QL4	M00	ga	ga	C	1	pe ku ga ta	pe xo ga ta	4	g	a	g	a	Ocl	Voiced	back	Ocl	Voiced	back	1	1	1	1	1	
+446	CA366	QL4	M00	ta	ta	C	1	pe ku ga ta	pe xo ga ta	4	t	a	t	a	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+447	CA366	QL4	M00	la	la	C	1	la ti ga zo	la tie ga zo	4	l	a	l	a	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+448	CA366	QL4	M00	ti	tie	S	0	la ti ga zo	la tie ga zo	4	t	i	t	e	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	0	1	1	1	
+449	CA366	QL4	M00	ga	ga	C	1	la ti ga zo	la tie ga zo	4	g	a	g	a	Ocl	Voiced	back	Ocl	Voiced	back	1	1	1	1	1	
+450	CA366	QL4	M00	zo	zo	C	1	la ti ga zo	la tie ga zo	4	z	o	z	o	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+451	CA366	QL4	M00	rro	rro	C	1	rro ka ***	rro ka mo	3	rr	o	rr	o	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+452	CA366	QL4	M00	ka	ka	C	1	rro ka ***	rro ka mo	3	k	a	k	a	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+453	CA366	QL4	M00	***	mo	I	0	rro ka ***	rro ka mo	3	**	*	m	o	Other	Other	Other	nas	Voiced	Frontal	0	0	0	0	0	
+454	CA366	QL4	M00	zi	zi	C	1	zi fo	zi fo	2	z	i	z	i	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+455	CA366	QL4	M00	fo	fo	C	1	zi fo	zi fo	2	f	o	f	o	fric	Vless	Frontal	fric	Vless	Frontal	1	1	1	1	1	
+456	CA366	QL4	M00	pa	pa	C	1	pa le tie rra	pa le tie rra	4	p	a	p	a	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+457	CA366	QL4	M00	le	le	C	1	pa le tie rra	pa le tie rra	4	l	e	l	e	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+458	CA366	QL4	M00	tie	tie	C	1	pa le tie rra	pa le tie rra	4	t	e	t	e	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+459	CA366	QL4	M00	rra	rra	C	1	pa le tie rra	pa le tie rra	4	rr	a	rr	a	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+460	CA366	QL4	M00	ze	ze	C	1	ze bo	ze bo	2	z	e	z	e	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+461	CA366	QL4	M00	bo	bo	C	1	ze bo	ze bo	2	b	o	b	o	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	1	1	1	1	
+462	CA366	QL4	M00	pa	pa	C	1	pa li yo	pa le yo	3	p	a	p	a	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+463	CA366	QL4	M00	li	le	S	0	pa li yo	pa le yo	3	l	i	l	e	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	0	1	1	1	
+464	CA366	QL4	M00	yo	yo	C	1	pa li yo	pa le yo	3	y	o	y	o	fric	Voiced	Coronal	fric	Voiced	Coronal	1	1	1	1	1	
+465	CA366	QL4	M00	ka	ka	C	1	ka ba ye to	ka ba ye to	4	k	a	k	a	Ocl	Vless	back	Ocl	Vless	back	1	1	1	1	1	
+466	CA366	QL4	M00	ba	ba	C	1	ka ba ye to	ka ba ye to	4	b	a	b	a	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	1	1	1	1	
+467	CA366	QL4	M00	ye	ye	C	1	ka ba ye to	ka ba ye to	4	y	e	y	e	fric	Voiced	Coronal	fric	Voiced	Coronal	1	1	1	1	1	
+468	CA366	QL4	M00	to	to	C	1	ka ba ye to	ka ba ye to	4	t	o	t	o	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+469	CA366	QL4	M00	lo	lo	C	1	lo ze du ne	lo ze ro ne	4	l	o	l	o	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+470	CA366	QL4	M00	ze	ze	C	1	lo ze du ne	lo ze ro ne	4	z	e	z	e	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+471	CA366	QL4	M00	du	ro	S	0	lo ze du ne	lo ze ro ne	4	d	u	r	o	Ocl	Voiced	Coronal	Aprox	Voiced	Coronal	0	0	0	1	1	
+472	CA366	QL4	M00	ne	ne	C	1	lo ze du ne	lo ze ro ne	4	n	e	n	e	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+473	CA366	QL4	M00	cha	ya	S	0	cha to	ya to	2	ch	a	y	a	Afic	Vless	Coronal	fric	Voiced	Coronal	0	1	0	0	1	
+474	CA366	QL4	M00	to	to	C	1	cha to	ya to	2	t	o	t	o	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+475	CA366	QL4	M00	gi	gi	C	1	gi cho	gi cho	2	g	i	g	i	Ocl	Voiced	back	Ocl	Voiced	back	1	1	1	1	1	
+476	CA366	QL4	M00	cho	cho	C	1	gi cho	gi cho	2	ch	o	ch	o	Afic	Vless	Coronal	Afic	Vless	Coronal	1	1	1	1	1	
+477	CA366	QL4	M00	pe	pe	C	1	pe na	pe na	2	p	e	p	e	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+478	CA366	QL4	M00	na	na	C	1	pe na	pe na	2	n	a	n	a	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+479	CA366	QL4	M00	bi	bi	C	1	bi ya	bi ya	2	b	i	b	i	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	1	1	1	1	
+480	CA366	QL4	M00	ya	ya	C	1	bi ya	bi ya	2	y	a	y	a	fric	Voiced	Coronal	fric	Voiced	Coronal	1	1	1	1	1	
+481	CA366	QL4	M00	to	to	C	1	to ye	to ye	2	t	o	t	o	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+482	CA366	QL4	M00	ye	ye	C	1	to ye	to ye	2	y	e	y	e	fric	Voiced	Coronal	fric	Voiced	Coronal	1	1	1	1	1	
+483	CA366	QL4	M00	pa	pa	C	1	pa ni	pa ni	2	p	a	p	a	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+484	CA366	QL4	M00	ni	ni	C	1	pa ni	pa ni	2	n	i	n	i	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+485	CA366	QL4	M00	fe	fe	C	1	fe bu xo	fe bu xo	3	f	e	f	e	fric	Vless	Frontal	fric	Vless	Frontal	1	1	1	1	1	
+486	CA366	QL4	M00	bu	bu	C	1	fe bu xo	fe bu xo	3	b	u	b	u	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	1	1	1	1	
+487	CA366	QL4	M00	xo	xo	C	1	fe bu xo	fe bu xo	3	x	o	x	o	fric	Vless	back	fric	Vless	back	1	1	1	1	1	
+488	CA366	QL4	M00	rre	fe	S	0	rre ti ra da	fe ti ra da	4	rr	e	f	e	Aprox	Voiced	Coronal	fric	Vless	Frontal	0	1	0	0	0	
+489	CA366	QL4	M00	ti	ti	C	1	rre ti ra da	fe ti ra da	4	t	i	t	i	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+490	CA366	QL4	M00	ra	ra	C	1	rre ti ra da	fe ti ra da	4	r	a	r	a	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+491	CA366	QL4	M00	da	da	C	1	rre ti ra da	fe ti ra da	4	d	a	d	a	Ocl	Voiced	Coronal	Ocl	Voiced	Coronal	1	1	1	1	1	
+492	CA366	QL4	M00	u	gu	S	0	u me so	gu me so	3	*		g	u	Other	Other	Other	Ocl	Voiced	back	0	0	0	0	0	
+493	CA366	QL4	M00	me	me	C	1	u me so	gu me so	3	m	e	m	e	nas	Voiced	Frontal	nas	Voiced	Frontal	1	1	1	1	1	
+494	CA366	QL4	M00	so	so	C	1	u me so	gu me so	3	s	o	s	o	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+495	CA366	QL4	M00	ta	ka	S	0	ta le go	ka le mo	3	t	a	k	a	Ocl	Vless	Coronal	Ocl	Vless	back	0	1	1	1	0	
+496	CA366	QL4	M00	le	le	C	1	ta le go	ka le mo	3	l	e	l	e	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+497	CA366	QL4	M00	go	mo	S	0	ta le go	ka le mo	3	g	o	m	o	Ocl	Voiced	back	nas	Voiced	Frontal	0	1	0	1	0	
+498	CA366	QL4	M00	me	***	D	0	me di zi na	*** ze zi nya	4	m	e	**	*	nas	Voiced	Frontal	Other	Other	Other	0	0	0	0	0	
+499	CA366	QL4	M00	di	ze	S	0	me di zi na	*** ze zi nya	4	d	i	z	e	Ocl	Voiced	Coronal	fric	Vless	Coronal	0	0	0	0	1	
+500	CA366	QL4	M00	zi	zi	C	1	me di zi na	*** ze zi nya	4	z	i	z	i	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+501	CA366	QL4	M00	na	nya	S	0	me di zi na	*** ze zi nya	4	n	a	ny	a	nas	Voiced	Coronal	nas	Voiced	Coronal	0	1	1	1	1	
+502	CA366	QL4	M00	ti	ki	S	0	ti se	ki se	2	t	i	k	i	Ocl	Vless	Coronal	Ocl	Vless	back	0	1	1	1	0	
+503	CA366	QL4	M00	se	se	C	1	ti se	ki se	2	s	e	s	e	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+504	CA366	QL4	M00	fe	ze	S	0	fe xi	ze zi	2	f	e	z	e	fric	Vless	Frontal	fric	Vless	Coronal	0	1	1	1	0	
+505	CA366	QL4	M00	xi	zi	S	0	fe xi	ze zi	2	x	i	z	i	fric	Vless	back	fric	Vless	Coronal	0	1	1	1	0	
+506	CA366	QL4	M00	bi	be	S	0	bi fu pe si	be fu pe si	4	b	i	b	e	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	0	1	1	1	
+507	CA366	QL4	M00	fu	fu	C	1	bi fu pe si	be fu pe si	4	f	u	f	u	fric	Vless	Frontal	fric	Vless	Frontal	1	1	1	1	1	
+508	CA366	QL4	M00	pe	pe	C	1	bi fu pe si	be fu pe si	4	p	e	p	e	Ocl	Vless	Frontal	Ocl	Vless	Frontal	1	1	1	1	1	
+509	CA366	QL4	M00	si	si	C	1	bi fu pe si	be fu pe si	4	s	i	s	i	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+510	CA366	QL4	M00	za	zo	S	0	za bo lu	zo bo lu	3	z	a	z	o	fric	Vless	Coronal	fric	Vless	Coronal	1	0	1	1	1	
+511	CA366	QL4	M00	bo	bo	C	1	za bo lu	zo bo lu	3	b	o	b	o	Ocl	Voiced	Frontal	Ocl	Voiced	Frontal	1	1	1	1	1	
+512	CA366	QL4	M00	lu	lu	C	1	za bo lu	zo bo lu	3	l	u	l	u	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+513	CA366	QL4	M00	ma	da	S	0	ma no ta zo	da do to zo	4	m	a	d	a	nas	Voiced	Frontal	Ocl	Voiced	Coronal	0	1	0	1	0	
+514	CA366	QL4	M00	no	do	S	0	ma no ta zo	da do to zo	4	n	o	d	o	nas	Voiced	Coronal	Ocl	Voiced	Coronal	0	1	0	1	1	
+515	CA366	QL4	M00	ta	to	S	0	ma no ta zo	da do to zo	4	t	a	t	o	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	0	1	1	1	
+516	CA366	QL4	M00	zo	zo	C	1	ma no ta zo	da do to zo	4	z	o	z	o	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+517	CA366	QL4	M00	ba	***	D	0	ba rre yo	*** pa yo	3	b	a	**	*	Ocl	Voiced	Frontal	Other	Other	Other	0	0	0	0	0	
+518	CA366	QL4	M00	rre	pa	S	0	ba rre yo	*** pa yo	3	rr	e	p	a	Aprox	Voiced	Coronal	Ocl	Vless	Frontal	0	0	0	0	0	
+519	CA366	QL4	M00	yo	yo	C	1	ba rre yo	*** pa yo	3	y	o	y	o	fric	Voiced	Coronal	fric	Voiced	Coronal	1	1	1	1	1	
+520	CA366	QL4	M00	se	se	C	1	se nyo ri da	se nyo ri na	4	s	e	s	e	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
+521	CA366	QL4	M00	nyo	nyo	C	1	se nyo ri da	se nyo ri na	4	ny	o	ny	o	nas	Voiced	Coronal	nas	Voiced	Coronal	1	1	1	1	1	
+522	CA366	QL4	M00	ri	ri	C	1	se nyo ri da	se nyo ri na	4	r	i	r	i	Aprox	Voiced	Coronal	Aprox	Voiced	Coronal	1	1	1	1	1	
+523	CA366	QL4	M00	da	na	S	0	se nyo ri da	se nyo ri na	4	d	a	n	a	Ocl	Voiced	Coronal	nas	Voiced	Coronal	0	1	0	1	1	
+524	CA366	QL4	M00	tu	tu	C	1	tu zo	tu zo	2	t	u	t	u	Ocl	Vless	Coronal	Ocl	Vless	Coronal	1	1	1	1	1	
+525	CA366	QL4	M00	zo	zo	C	1	tu zo	tu zo	2	z	o	z	o	fric	Vless	Coronal	fric	Vless	Coronal	1	1	1	1	1	
