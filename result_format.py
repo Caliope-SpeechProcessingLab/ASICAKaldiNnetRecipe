@@ -104,7 +104,7 @@ def extract_results(crossVal_mode, speaker):
 
 
 
-        print(df)
+        # print(df)
         if speaker !=[] and crossVal_mode == True:
             df.to_csv("results/" +speaker+ ".csv", sep="\t")
         else:

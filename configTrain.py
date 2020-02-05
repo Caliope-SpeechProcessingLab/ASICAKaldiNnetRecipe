@@ -12,8 +12,8 @@ def check_kal_names(filenames):
     for filename in filenames:
         if not re.match(r"[a-zA-Z0-9]+_[a-zA-Z0-9]+", filename):
             raise ValueError('FILENAME FORMAT ERROR IN: ' + filename + ' It MUST consists on \"CHARACTERS_CHARACTERS\"')
-        else:
-            print('Correct format name for: ' + filename)
+#        else:
+#            print('Correct format name for: ' + filename)
 
 def silentDirectory_remove(filename):
     try:
@@ -38,11 +38,11 @@ def search_by_subject(id,path):
 
 
 def getColumns(filename,path):
-    print("Path: ")
-    print(path)
-    print("Filename: ")
-    print(filename)
-    print(path + filename)
+#    print("Path: ")
+#    print(path)
+#    print("Filename: ")
+#    print(filename)
+#    print(path + filename)
     data = pd.DataFrame(columns=('Start', 'End', 'Word Transcription', 'Phoneme Transcription'))
     reader = open(path + filename, 'r', errors='ignore')
     lines = reader.readlines()
