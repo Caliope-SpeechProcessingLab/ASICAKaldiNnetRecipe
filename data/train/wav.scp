@@ -14,6 +14,10 @@ CA020QL1_M40 audio/experiment_lm/CA020QL1_M40.wav
 CA020QL2_M40 audio/experiment_lm/CA020QL2_M40.wav
 CA020QL3_M40 audio/experiment_lm/CA020QL3_M40.wav
 CA020QL4_M40 audio/experiment_lm/CA020QL4_M40.wav
+CA101QL1_H32 audio/experiment_lm/CA101QL1_H32.wav
+CA101QL2_H32 audio/experiment_lm/CA101QL2_H32.wav
+CA101QL3_H32 audio/experiment_lm/CA101QL3_H32.wav
+CA101QL4_H32 audio/experiment_lm/CA101QL4_H32.wav
 CA201QL1_M18 audio/experiment_lm/CA201QL1_M18.wav
 CA201QL2_M18 audio/experiment_lm/CA201QL2_M18.wav
 CA201QL3_M18 audio/experiment_lm/CA201QL3_M18.wav
@@ -146,10 +150,6 @@ CA310QL1_M00 audio/experiment_lm/CA310QL1_M00.wav
 CA310QL2_M00 audio/experiment_lm/CA310QL2_M00.wav
 CA310QL3_M00 audio/experiment_lm/CA310QL3_M00.wav
 CA310QL4_M00 audio/experiment_lm/CA310QL4_M00.wav
-CA318QL1_M00 audio/experiment_lm/CA318QL1_M00.wav
-CA318QL2_M00 audio/experiment_lm/CA318QL2_M00.wav
-CA318QL3_M00 audio/experiment_lm/CA318QL3_M00.wav
-CA318QL4_M00 audio/experiment_lm/CA318QL4_M00.wav
 CA325QL1_M57 audio/experiment_lm/CA325QL1_M57.wav
 CA325QL2_M57 audio/experiment_lm/CA325QL2_M57.wav
 CA325QL3_M57 audio/experiment_lm/CA325QL3_M57.wav

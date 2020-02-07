@@ -3,19 +3,19 @@ num-updatable-components 5
 left-context 4
 right-context 4
 input-dim 13
-output-dim 1192
+output-dim 1176
 parameter-dim 11469632
 component 0 : SpliceComponent, input-dim=13, output-dim=117, context=-4 -3 -2 -1 0 1 2 3 4 
-component 1 : FixedAffineComponent, input-dim=117, output-dim=117, linear-params-stddev=0.00532507, bias-params-stddev=0.0776382
-component 2 : AffineComponentPreconditionedOnline, input-dim=117, output-dim=1024, linear-params-stddev=0.193606, bias-params-stddev=0.769154, learning-rate=0.001, rank-in=30, rank-out=60, num_samples_history=2000, update_period=4, alpha=4, max-change-per-sample=0.075
+component 1 : FixedAffineComponent, input-dim=117, output-dim=117, linear-params-stddev=0.00532845, bias-params-stddev=0.0783858
+component 2 : AffineComponentPreconditionedOnline, input-dim=117, output-dim=1024, linear-params-stddev=0.203839, bias-params-stddev=0.753822, learning-rate=0.001, rank-in=30, rank-out=60, num_samples_history=2000, update_period=4, alpha=4, max-change-per-sample=0.075
 component 3 : TanhComponent, input-dim=1024, output-dim=1024
-component 4 : AffineComponentPreconditionedOnline, input-dim=1024, output-dim=1024, linear-params-stddev=0.0943138, bias-params-stddev=0.613332, learning-rate=0.001, rank-in=30, rank-out=60, num_samples_history=2000, update_period=4, alpha=4, max-change-per-sample=0.075
+component 4 : AffineComponentPreconditionedOnline, input-dim=1024, output-dim=1024, linear-params-stddev=0.0898519, bias-params-stddev=0.541279, learning-rate=0.001, rank-in=30, rank-out=60, num_samples_history=2000, update_period=4, alpha=4, max-change-per-sample=0.075
 component 5 : TanhComponent, input-dim=1024, output-dim=1024
-component 6 : AffineComponentPreconditionedOnline, input-dim=1024, output-dim=1024, linear-params-stddev=0.159516, bias-params-stddev=1.35187, learning-rate=0.001, rank-in=30, rank-out=60, num_samples_history=2000, update_period=4, alpha=4, max-change-per-sample=0.075
+component 6 : AffineComponentPreconditionedOnline, input-dim=1024, output-dim=1024, linear-params-stddev=0.134534, bias-params-stddev=1.09482, learning-rate=0.001, rank-in=30, rank-out=60, num_samples_history=2000, update_period=4, alpha=4, max-change-per-sample=0.075
 component 7 : TanhComponent, input-dim=1024, output-dim=1024
-component 8 : AffineComponentPreconditionedOnline, input-dim=1024, output-dim=1024, linear-params-stddev=0.0679082, bias-params-stddev=0.545917, learning-rate=0.0005, rank-in=30, rank-out=60, num_samples_history=2000, update_period=4, alpha=4, max-change-per-sample=0.075
+component 8 : AffineComponentPreconditionedOnline, input-dim=1024, output-dim=1024, linear-params-stddev=0.128964, bias-params-stddev=1.14303, learning-rate=0.0005, rank-in=30, rank-out=60, num_samples_history=2000, update_period=4, alpha=4, max-change-per-sample=0.075
 component 9 : TanhComponent, input-dim=1024, output-dim=1024
-component 10 : AffineComponentPreconditionedOnline, input-dim=1024, output-dim=8000, linear-params-stddev=0.0467615, bias-params-stddev=2.13675, learning-rate=0.0005, rank-in=30, rank-out=60, num_samples_history=2000, update_period=4, alpha=4, max-change-per-sample=0.075
+component 10 : AffineComponentPreconditionedOnline, input-dim=1024, output-dim=8000, linear-params-stddev=0.0605218, bias-params-stddev=2.75338, learning-rate=0.0005, rank-in=30, rank-out=60, num_samples_history=2000, update_period=4, alpha=4, max-change-per-sample=0.075
 component 11 : SoftmaxComponent, input-dim=8000, output-dim=8000
-component 12 : SumGroupComponent, input-dim=8000, output-dim=1192
-prior dimension: 1192, prior sum: 1, prior min: 8.11286e-06
+component 12 : SumGroupComponent, input-dim=8000, output-dim=1176
+prior dimension: 1176, prior sum: 1, prior min: 8.0898e-06

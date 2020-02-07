@@ -287,8 +287,8 @@ def main(argv):
             # --------------------- NNET2 CROSS VAL --------------------------#
             # ----------------------------------------------------------------#
 
-            bashCommand = "python3 run.py --train --test"
-            # bashCommand = "python3 run.py --test"
+            # bashCommand = "python3 run.py --train --test"
+            bashCommand = "python3 run.py --test"
             # bashCommand = "python3 run.py --train"
             process = subprocess.Popen(bashCommand,shell=True)
             output, error = process.communicate()
